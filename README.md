@@ -6,6 +6,7 @@ This is a place to list my presentations and webinars
 * [Criando uma stack Wordpress usando Visual Studio & Azure](https://mix.office.com/watch/5n600xw3avfz)
 * [IaC & DevOps no Azure - Automatizando Deployments](https://mix.office.com/watch/fpdzgalgobl9)
 * [Containers Docker no Azure Web App](https://mix.office.com/watch/gt5wb6ghpe5h)
+* [IaC & DevOps no Azure - Automatizando Deployments - Azure Global Bootcamp 2017](https://mix.office.com/watch/rt9140641d7n)
 * [Criando VM Linux com Disco Gerenciado](https://mix.office.com/watch/j30cutelvmhr)
 * [Azure @ Rio Cloud Meetup](https://www.slideshare.net/rmmartins/azure-rio-cloud-meetp)
 * [Guia de Referência para o exame de certificação 70-533](https://www.slideshare.net/rmmartins/guia-de-referncia-para-o-exame-de-certificao-70533)
