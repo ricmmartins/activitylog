@@ -1,4 +1,4 @@
-# Presentations, Guides and Webinars
+# Presentations, Guides, Video How-to's and Webinars
 This is a place to list my presentations, guides, video how-to's and webinars
 
 ## Presentations
