@@ -53,21 +53,12 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Creation of a Linux VM (Ubuntu) from Azure CLI](https://asciinema.org/a/126545)
 * [Creating a Linux VM from Azure CLI](https://www.youtube.com/watch?v=yI5yh5ddtho)
 * [Azure template deployment from CLI](https://asciinema.org/a/133924)
+* [IaC & DevOps at Azure: Automating Deployments](https://www.youtube.com/watch?v=Vx2AwqwucpI)
 * [Azure File Sync](https://www.youtube.com/watch?v=6lDbvF31jik)
 * [Azure ARM Template Deployment from Visual Studio](https://www.youtube.com/watch?v=joZvr-sP3xE)
-* [Registering a domain and configuring an instance on AWS responding on that domain](https://www.youtube.com/watch?v=mVnt_-YOoPE)
 * [Installing CoreOS](https://www.youtube.com/watch?v=dEP31boZ9jU)
+* [Registering a domain and configuring an instance on AWS responding on that domain](https://www.youtube.com/watch?v=mVnt_-YOoPE)
 * [Monitoring applications and services with Monit](https://www.youtube.com/watch?v=atuRvvft5xU)
 * [AWS Data Pipeline Demo](https://www.youtube.com/watch?v=-xmyqZDga68)
 * [Installing Zabbix Server](https://www.youtube.com/watch?v=hO6rCKpBnn0)
-* 
-
-## Webinars
-
-* [IaC & DevOps no Azure: Automatizando Deployments](https://www.youtube.com/watch?v=Vx2AwqwucpI)
-* [Instalação do CoreOS](https://www.youtube.com/watch?v=dEP31boZ9jU)
-* [Monitoramento de Serviços com Monit](https://www.youtube.com/watch?v=atuRvvft5xU)
-* [Registrando um domínio e configurando uma instância na AWS para responder por ele ](https://www.youtube.com/watch?v=mVnt_-YOoPE)
-
-
 
