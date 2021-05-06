@@ -20,7 +20,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Configuring NGINX as Load Balancer](https://ricardomartins.com.br/nginx-configurando-como-load-balancer/)
 * [Load Balancing with HAProxy](https://www.ricardomartins.com.br/balanceamento-de-carga-com-haproxy/)
 * [Installing Wordpress with Nginx, PHP-FPM and Varnish on CentOS](https://ricardomartins.com.br/instalando-wordpress-nginx-php-fpm-varnish-no-centos/)
-* ✔️ You can see a ton of other writings on my personal blog at [https://ricardomartins.com.br/](https://ricardomartins.com.br/)
+✔️ You can see a ton of other writings on my personal blog at [https://ricardomartins.com.br/](https://ricardomartins.com.br/)
 
 ## Presentations
 
