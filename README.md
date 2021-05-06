@@ -6,6 +6,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
 * [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
 * [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
+* [Azure Governance made simple - Brazilian Portuguese version](https://github.com/ricmmartins/guia-pratico-governanca-azure)
 * [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
 * [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
 * [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
