@@ -48,7 +48,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Azure Certification Guide](http://aka.ms/azcertification)
 * [Azure Learning](http://aka.ms/capacitacaoazure)
 
-### 📹 Video How-to's
+## 📹 Video How-to's
 
 * [Azure Container Instance creation](https://asciinema.org/a/131745)
 * [Creation of a Linux VM (Ubuntu) from Azure CLI](https://asciinema.org/a/126545)
