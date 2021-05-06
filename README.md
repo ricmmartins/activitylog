@@ -1,7 +1,7 @@
 # Writings, Presentations, Guides, Video How-to's and Webinars
 This is a place to list some of my highlighted writings, presentations, guides, video how-to's and webinars. Some content are in Brazilian Portuguese and others in English.
 
-## Writings
+## 📝 Writings
 
 * [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
 * [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
@@ -23,7 +23,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ✔️ You can see a ton of other writings on my personal blog at [https://ricardomartins.com.br/](https://ricardomartins.com.br/)
 
-## Presentations
+## 📗 Presentations
 
 * [Creation of VM with Wordpress stack using Visual Studio](https://ricardomartins9888.blob.core.windows.net/arquivos/CriandoumastackWordpressusandoVisualStudioAzure.pptx)
 * [IaC & DevOps no Azure - Automating Deployments](https://ricardomartins9888.blob.core.windows.net/arquivos/IaC&DevOpsNoAzure-AutomatizandoDeployments.pptx)
@@ -42,13 +42,13 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Cloud Computing - Senac RJ 2014](https://www.slideshare.net/rmmartins/computao-em-nuvem-38583126)
 * [Cloud Computing - Flisol 2014](https://www.slideshare.net/rmmartins/computacao-em-nuvem-34029146)
 
-## Guides
+## 📋 Guides
 * [Azure for IT Pro & CloudOps](https://github.com/ricmmartins/azure-for-itpro)
 * [Azure Readiness](http://aka.ms/azreadiness)
 * [Azure Certification Guide](http://aka.ms/azcertification)
 * [Azure Learning](http://aka.ms/capacitacaoazure)
 
-### Video How-to's
+### 📹 Video How-to's
 
 * [Azure Container Instance creation](https://asciinema.org/a/131745)
 * [Creation of a Linux VM (Ubuntu) from Azure CLI](https://asciinema.org/a/126545)
