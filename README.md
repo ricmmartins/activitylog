@@ -3,6 +3,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
+* [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
 * [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
 * [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
