@@ -3,6 +3,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
+* [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
 * [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
 * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
