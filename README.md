@@ -16,6 +16,8 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
 * [How to use the Azure Automation to run scripts inside a Linux Virtual Machine](https://github.com/ricmmartins/azure-automation)
 * [Being alerted about creation or updates of Virtual Machines in your Azure Subscription](https://github.com/ricmmartins/azure-alerts)
+* [How to build your skills in Azure (PT-BR)](https://www.linkedin.com/pulse/como-construir-seus-skills-em-azure-ricardo-martins/)
+* [Microsoft Azure: Where to start?(PT-BR)](https://www.linkedin.com/pulse/microsoft-azure-por-onde-come%C3%A7ar-ricardo-martins-/)
 * [How to create a Linux VM on Azure using CLI](https://github.com/ricmmartins/training/tree/master/demo/az-cli)
 * [How to create a QnA Bot on Azure](https://github.com/ricmmartins/training/tree/master/demo/qna)
 * [How to deploy Wordpress Stack from Azure CLI](https://github.com/ricmmartins/WordpressStack-AzureCLI)
