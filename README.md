@@ -55,6 +55,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Cloud Computing - Flisol 2014](https://www.slideshare.net/rmmartins/computacao-em-nuvem-34029146)
 
 ## 📋 Guides
+* [Guia de Estudo para o exame AZ-900](https://aka.ms/guia-az900)
 * [Azure for IT Pro & CloudOps](https://github.com/ricmmartins/azure-for-itpro)
 * [Azure Readiness](http://aka.ms/azreadiness)
 * [Azure Certification Guide](http://aka.ms/azcertification)
