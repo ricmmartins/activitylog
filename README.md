@@ -3,7 +3,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
-* [Linux Hackathon](https://aka.ms/linuxhackathon)
+* [Linux Hackathon](https://aka.ms/linuxhackathon) - The 1st Linux "Hackathon" by Microsoft!
 * [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
 * [Intro to Azure Blueprints - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
 * [Intro to Azure Policy - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
