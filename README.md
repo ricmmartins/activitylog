@@ -78,3 +78,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [AWS Data Pipeline Demo](https://www.youtube.com/watch?v=-xmyqZDga68)
 * [Installing Zabbix Server](https://www.youtube.com/watch?v=hO6rCKpBnn0)
 
+## Community Events
+
+* [Organizer of the 1st edition of DevOpsDays in Rio de Janeiro - 2018](https://devopsdays.org/events/2018-rio-de-janeiro/contato)
+
