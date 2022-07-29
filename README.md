@@ -3,6 +3,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
+* [Implement an open-source jump server solution on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
 * [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
 * [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
 * [Intro to Azure Blueprints - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
