@@ -2,6 +2,7 @@
 This is a place to list some of my highlighted writings, presentations, guides, video how-to's and webinars. Some content are in Brazilian Portuguese and others in English.
 
 ## 📝 Writings
+* [Intro to Azure DNS Private Resolver - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
 * [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
 * [Implement an open-source jump server solution on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
 * [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
