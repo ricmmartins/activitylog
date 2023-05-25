@@ -41,6 +41,14 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ✔️ You can see a ton of other writings on my personal blog at [https://ricardomartins.com.br/](https://ricardomartins.com.br/)
 
+
+## 📝 Translations
+
+* [Kubernetes Documentation - Padrão Operador](https://kubernetes.io/pt-br/docs/concepts/extend-kubernetes/operator/)
+* [Kubernetes Documentation - Use o redirecionamento de porta para acessar aplicativos em um cluster](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
+* [Kubernetes Documentation - Limitar o consumo de armazenamento](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/limit-storage-consumption/)
+
+
 ## 📗 Presentations
 
 * [Creation of VM with Wordpress stack using Visual Studio](https://ricardomartins9888.blob.core.windows.net/arquivos/CriandoumastackWordpressusandoVisualStudioAzure.pptx)
