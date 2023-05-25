@@ -2,8 +2,15 @@
 This is a place to list some of my highlighted writings, presentations, guides, video how-to's and webinars. Some content are in Brazilian Portuguese and others in English.
 
 ## 📝 Writings
-* [Azure Front Door with ARO ( Azure Red Hat OpenShift )](https://mobb.ninja/docs/aro/frontdoor/)
-* [Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
+
+
+* [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
+* [Contributions to: Tutorial: Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
+* [Contributions to: ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
+* [Contributions to: Use GPU workloads with Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/azure/openshift/howto-gpu-workloads)
+* [Contributions to: Configure ARO to use Azure AD](https://mobb.ninja/docs/idp/azuread-aro/)
+* [Contributions to: Azure Front Door with ARO ( Azure Red Hat OpenShift )](https://mobb.ninja/docs/aro/frontdoor/)
+* [Contributions to: Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
 * [Intro to Azure DNS Private Resolver - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
 * [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
 * [Implement an open-source jump server solution on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
