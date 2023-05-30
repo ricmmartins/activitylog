@@ -51,6 +51,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Translations
 
+* [Kubernetes Documentation - Configurar um provedor de credenciais de imagem para o kubelet](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/kubelet-credential-provider/)
 * [Kubernetes Documentation - Padrão Operador](https://kubernetes.io/pt-br/docs/concepts/extend-kubernetes/operator/)
 * [Kubernetes Documentation - Use o redirecionamento de porta para acessar aplicativos em um cluster](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
 * [Kubernetes Documentation - Limitar o consumo de armazenamento](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/limit-storage-consumption/)
