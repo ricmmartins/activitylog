@@ -51,6 +51,8 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Translations
 
+* [Kubernetes Documentation - Conectando um Frontend a um Backend usando Serviços](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/connecting-frontend-backend/)
+* [Kubernetes Documentation - Acessando serviços em execução em clusters](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/access-cluster-services/)
 * [Kubernetes Documentation - Configurar um provedor de credenciais de imagem para o kubelet](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/kubelet-credential-provider/)
 * [Kubernetes Documentation - Padrão Operador](https://kubernetes.io/pt-br/docs/concepts/extend-kubernetes/operator/)
 * [Kubernetes Documentation - Use o redirecionamento de porta para acessar aplicativos em um cluster](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
