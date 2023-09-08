@@ -4,7 +4,11 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - Microsoft Learn Modules I wrote:
-  - [Intro to Azure DNS Private Resolver - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
+  - [Intro to Azure DNS Private Resolver](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
+  - [Intro to Azure Blueprints](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
+  - [Intro to Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
+  - [Intro to Azure Service Health](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
+  - [Introduction to Azure Advisor](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
 * [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
 * [Contributions to: Tutorial: Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
 * [Contributions to: ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
@@ -16,10 +20,6 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Implement an open-source jump server solution on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
 * [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
 * [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
-* [Intro to Azure Blueprints - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
-* [Intro to Azure Policy - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
-* [Intro to Azure Service Health - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
-* [Introduction to Azure Advisor - Module I've wrote on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
 * [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
 * [Contributions to FastTrack for Azure Blog: Deploying Apache Guacamole on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploying-apache-guacamole-on-azure/ba-p/3269613)
 * [Contributions to FastTrack for Azure Blog: Deploy a highly available and scalable Wordpress on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-a-highly-available-and-scalable-wordpress-on-azure/ba-p/2507554)
