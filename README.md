@@ -3,15 +3,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
-- Microsoft Learn Modules I wrote:
-  - [Intro to Azure DNS Private Resolver](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
-  - [Intro to Azure Blueprints](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
-  - [Intro to Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
-  - [Intro to Azure Service Health](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
-  - [Introduction to Azure Advisor](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
-- Article I wrote to Microsoft Architecture Center
-  - [Implement an open-source jump server solution on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
-- Contributions I made to the Mobb.Ninja Blob:
+- Contributions I made to the Mobb.Ninja Blog:
   - [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
   - [Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
   - [ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
@@ -19,42 +11,58 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Configure ARO to use Azure AD](https://mobb.ninja/docs/idp/azuread-aro/)
   - [Azure Front Door with ARO ( Azure Red Hat OpenShift )](https://mobb.ninja/docs/aro/frontdoor/)
   - [Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
-* [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
-* [Implement an open-source jump server solution on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
-* [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
-* [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
-* [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
-* [Contributions to FastTrack for Azure Blog: Deploying Apache Guacamole on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploying-apache-guacamole-on-azure/ba-p/3269613)
-* [Contributions to FastTrack for Azure Blog: Deploy a highly available and scalable Wordpress on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-a-highly-available-and-scalable-wordpress-on-azure/ba-p/2507554)
-* [Contributions to FastTrack for Azure Blog: Implementing your own ELK Stack on Azure through CLI](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/implementing-your-own-elk-stack-on-azure-through-cli/ba-p/2282939)
-* [Contributions to FastTrack for Azure Blog: How to create a VPN between Azure and AWS using only managed solutions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-a-vpn-between-azure-and-aws-using-only-managed/ba-p/2281900)
-* [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
-* [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
-* [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
-* [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
-* [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
-* [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
-* [Azure Governance made simple - Brazilian Portuguese version](https://github.com/ricmmartins/guia-pratico-governanca-azure)
-* [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
-* [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
-* [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
-* [How to use the Azure Automation to run scripts inside a Linux Virtual Machine](https://github.com/ricmmartins/azure-automation)
-* [Being alerted about creation or updates of Virtual Machines in your Azure Subscription](https://github.com/ricmmartins/azure-alerts)
-* [How to build your skills in Azure (PT-BR)](https://www.linkedin.com/pulse/como-construir-seus-skills-em-azure-ricardo-martins/)
-* [Microsoft Azure: Where to start? (PT-BR)](https://www.linkedin.com/pulse/microsoft-azure-por-onde-come%C3%A7ar-ricardo-martins-/)
-* [Everything fails, all the time](https://www.linkedin.com/pulse/everything-fails-all-time-ricardo-martins/)
-* [How to create a Linux VM on Azure using CLI](https://github.com/ricmmartins/training/tree/master/demo/az-cli)
-* [How to create a QnA Bot on Azure](https://github.com/ricmmartins/training/tree/master/demo/qna)
-* [How to deploy Wordpress Stack from Azure CLI](https://github.com/ricmmartins/WordpressStack-AzureCLI)
-* [Implementing Apache Guacamole on Azure](https://ricardomartins.com.br/implementando-o-apache-guacamole-no-azure/)
-* [Collecting Azure information with Grafana](https://ricardomartins.com.br/coletando-informacoes-do-azure-com-grafana/)
-* [How to implement DSpace in Azure Webapp for Containers](https://ricardomartins.com.br/como-implementar-o-dspace-em-um-webapp-container-no-azure/)
-* [Configuring NGINX as Load Balancer](https://ricardomartins.com.br/nginx-configurando-como-load-balancer/)
-* [Load Balancing with HAProxy](https://www.ricardomartins.com.br/balanceamento-de-carga-com-haproxy/)
-* [Installing Wordpress with Nginx, PHP-FPM and Varnish on CentOS](https://ricardomartins.com.br/instalando-wordpress-nginx-php-fpm-varnish-no-centos/)
+    
+- Microsoft Learn Modules I wrote:
+  - [Intro to Azure DNS Private Resolver](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
+  - [Intro to Azure Blueprints](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
+  - [Intro to Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
+  - [Intro to Azure Service Health](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
+  - [Introduction to Azure Advisor](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
+    
+- Article I wrote to Microsoft Architecture Center
+  - [Implement an open-source jump server solution on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
 
+- Articles I wrote to Microsoft FastTrack for Azure Blog:
+  - [Deploying Apache Guacamole on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploying-apache-guacamole-on-azure/ba-p/3269613)
+  - [Deploy a highly available and scalable Wordpress on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-a-highly-available-and-scalable-wordpress-on-azure/ba-p/2507554)
+  - [Implementing your own ELK Stack on Azure through CLI](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/implementing-your-own-elk-stack-on-azure-through-cli/ba-p/2282939)
+  - [How to create a VPN between Azure and AWS using only managed solutions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-a-vpn-between-azure-and-aws-using-only-managed/ba-p/2281900)
+  
+- E-book I wrote around Azure Governance:
+  - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
+
+- Hackathon I've created for Microsoft
+  -  [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
+
+- Other stuff I've created 
+  * [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
+  * [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
+  * [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
+  * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
+  * [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
+  * [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
+  * [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
+  * [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
+  * [Azure Governance made simple - Brazilian Portuguese version](https://github.com/ricmmartins/guia-pratico-governanca-azure)
+  * [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
+  * [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
+  * [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
+  * [How to use the Azure Automation to run scripts inside a Linux Virtual Machine](https://github.com/ricmmartins/azure-automation)
+  * [Being alerted about creation or updates of Virtual Machines in your Azure Subscription](https://github.com/ricmmartins/azure-alerts)
+  * [How to build your skills in Azure (PT-BR)](https://www.linkedin.com/pulse/como-construir-seus-skills-em-azure-ricardo-martins/)
+  * [Microsoft Azure: Where to start? (PT-BR)](https://www.linkedin.com/pulse/microsoft-azure-por-onde-come%C3%A7ar-ricardo-martins-/)
+  * [Everything fails, all the time](https://www.linkedin.com/pulse/everything-fails-all-time-ricardo-martins/)
+  * [How to create a Linux VM on Azure using CLI](https://github.com/ricmmartins/training/tree/master/demo/az-cli)
+  * [How to create a QnA Bot on Azure](https://github.com/ricmmartins/training/tree/master/demo/qna)
+  * [How to deploy Wordpress Stack from Azure CLI](https://github.com/ricmmartins/WordpressStack-AzureCLI)
+  * [Implementing Apache Guacamole on Azure](https://ricardomartins.com.br/implementando-o-apache-guacamole-no-azure/)
+  * [Collecting Azure information with Grafana](https://ricardomartins.com.br/coletando-informacoes-do-azure-com-grafana/)
+  * [How to implement DSpace in Azure Webapp for Containers](https://ricardomartins.com.br/como-implementar-o-dspace-em-um-webapp-container-no-azure/)
+  * [Configuring NGINX as Load Balancer](https://ricardomartins.com.br/nginx-configurando-como-load-balancer/)
+  * [Load Balancing with HAProxy](https://www.ricardomartins.com.br/balanceamento-de-carga-com-haproxy/)
+  * [Installing Wordpress with Nginx, PHP-FPM and Varnish on CentOS](https://ricardomartins.com.br/instalando-wordpress-nginx-php-fpm-varnish-no-centos/)
+  
 ✔️ You can see a ton of other writings on my personal blog at [https://ricardomartins.com.br/](https://ricardomartins.com.br/)
-
 
 ## 📝 Translations
 
