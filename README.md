@@ -28,7 +28,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Implementing your own ELK Stack on Azure through CLI](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/implementing-your-own-elk-stack-on-azure-through-cli/ba-p/2282939)
   - [How to create a VPN between Azure and AWS using only managed solutions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-a-vpn-between-azure-and-aws-using-only-managed/ba-p/2281900)
   
-- E-book I wrote around Azure Governance:
+- E-book I wrote about Azure Governance:
   - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
 
 - Hackathon I've created for Microsoft
