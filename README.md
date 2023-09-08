@@ -3,6 +3,14 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
+- Certification Guides I created:
+  - Azure Fundamentals
+    - [Portuguese Version](https://fundamentosdoazure.com.br/)
+    - [English Version](https://azure-fundamentals.com/)
+  - AWS Fundamentals
+    - [Portuguese Version](http://fundamentosaws.com.br/)
+    - [English Version](https://awscloudpractitionerguide.com/)   
+
 - Contributions I made to the Mobb.Ninja Blog:
   - [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
   - [Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
@@ -32,7 +40,8 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
 
 - Hackathon I've created for Microsoft
-  -  [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://aka.ms/linuxhackathon)
+  -  [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://linuxhackathon.com)
+    - [What The Hack - Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)   
 
 - Other stuff I've created 
   - [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
@@ -94,7 +103,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 * [Cloud Computing - Senac RJ 2014](https://www.slideshare.net/rmmartins/computao-em-nuvem-38583126)
 * [Cloud Computing - Flisol 2014](https://www.slideshare.net/rmmartins/computacao-em-nuvem-34029146)
 
-## 📋 Guides
+## 📋 Misc
 * [Guia de Estudo para o exame AZ-900](https://aka.ms/guia-az900)
 * [Azure for IT Pro & CloudOps](https://github.com/ricmmartins/azure-for-itpro)
 * [Azure Readiness](http://aka.ms/azreadiness)
