@@ -11,7 +11,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
     - [Portuguese Version](http://fundamentosaws.com.br/)
     - [English Version](https://awscloudpractitionerguide.com/)   
 
-- Contributions I made to the Mobb.Ninja Blog:
+- Contributions I made to the Red Hat Cloud Experts Blog:
   - [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
   - [Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
   - [ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
