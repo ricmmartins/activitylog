@@ -12,6 +12,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
     - [English Version](https://awscloudpractitionerguide.com/)   
 
 - Contributions I made to the Red Hat Cloud Experts Blog:
+  -  [Deploying Advanced Cluster Management and OpenShift Data Foundation for ARO Disaster Recovery](https://cloud.redhat.com/experts/aro/acm-odf-aro/)
   - [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
   - [Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
   - [ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
