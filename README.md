@@ -11,10 +11,11 @@ This is a place to list some of my highlighted writings, presentations, guides, 
     - [Portuguese Version](http://fundamentosaws.com.br/)
     - [English Version](https://awscloudpractitionerguide.com/)   
 
-- Contributions I made to the Red Hat Cloud Experts Blog:
+- Contributions I made to the Red Hat Cloud Experts Blog and to Microsoft Official ARO Docs
   - [Prerequisites Checklist to Deploy ARO Cluster](https://cloud.redhat.com/experts/aro/prereq-list/)
   - [Deploying Advanced Cluster Management and OpenShift Data Foundation for ARO Disaster Recovery](https://cloud.redhat.com/experts/aro/acm-odf-aro/)
   - [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
+  - [Private ARO Cluster with access via JumpHost](https://cloud.redhat.com/experts/aro/private-cluster/)
   - [Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
   - [ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
   - [Use GPU workloads with Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/azure/openshift/howto-gpu-workloads)
