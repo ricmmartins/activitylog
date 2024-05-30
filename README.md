@@ -6,7 +6,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 - Articles I wrote to Startups at Microsoft Blog:
   - [Slash Your Azure Bill: Top Tips for Startups](https://techcommunity.microsoft.com/t5/startups-at-microsoft/slash-your-azure-bill-top-tips-for-startups/ba-p/4141839)
   - [Building a Secure and Scalable Foundation for Your Startup on Azure](https://techcommunity.microsoft.com/t5/startups-at-microsoft/building-a-secure-and-scalable-foundation-for-your-startup-on/ba-p/4146456)
-  - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/blogs/blogworkflowpage/blog-id/StartupsatMicrosoftBlog/article-id/96)
+  - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
   
 
 - Certification Guides I created:
