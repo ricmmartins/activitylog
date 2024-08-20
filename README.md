@@ -9,7 +9,8 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
   
 
-- Certification Guides I created:
+- Learning Guides I created:
+  - [AKS Learning Path](https://aks-learning.github.io/learningpath/)
   - Azure Fundamentals
     - [Portuguese Version](https://fundamentosdoazure.com.br/)
     - [English Version](https://azure-fundamentals.com/)
