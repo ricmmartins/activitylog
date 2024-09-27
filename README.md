@@ -4,6 +4,11 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [Understanding Identity Concepts in AKS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/understanding-identity-concepts-in-aks/ba-p/4256435)
+  - [Azure Monitor & MELT: A Comprehensive Approach to Cloud Observability](https://techcommunity.microsoft.com/t5/startups-at-microsoft/azure-monitor-amp-melt-a-comprehensive-approach-to-cloud/ba-p/4251166)
+  - [Key Architectural Differences Between AWS and Azure Explained](https://techcommunity.microsoft.com/t5/startups-at-microsoft/key-architectural-differences-between-aws-and-azure-explained/ba-p/4244702)
+  - [From Zero to Hero with Azure Landing Zones](https://techcommunity.microsoft.com/t5/startups-at-microsoft/from-zero-to-hero-with-azure-landing-zones/ba-p/4229195)
+  - [Essential Steps to Kickstart Your Azure Journey](https://techcommunity.microsoft.com/t5/startups-at-microsoft/essential-steps-to-kickstart-your-azure-journey/ba-p/4227351)
   - [Slash Your Azure Bill: Top Tips for Startups](https://techcommunity.microsoft.com/t5/startups-at-microsoft/slash-your-azure-bill-top-tips-for-startups/ba-p/4141839)
   - [Building a Secure and Scalable Foundation for Your Startup on Azure](https://techcommunity.microsoft.com/t5/startups-at-microsoft/building-a-secure-and-scalable-foundation-for-your-startup-on/ba-p/4146456)
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
