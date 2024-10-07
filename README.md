@@ -4,6 +4,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [AKS Standard vs. AKS Automatic: A Comprehensive Comparison](https://techcommunity.microsoft.com/t5/startups-at-microsoft/aks-standard-vs-aks-automatic-a-comprehensive-comparison/ba-p/4264516)
   - [Understanding Identity Concepts in AKS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/understanding-identity-concepts-in-aks/ba-p/4256435)
   - [Azure Monitor & MELT: A Comprehensive Approach to Cloud Observability](https://techcommunity.microsoft.com/t5/startups-at-microsoft/azure-monitor-amp-melt-a-comprehensive-approach-to-cloud/ba-p/4251166)
   - [Key Architectural Differences Between AWS and Azure Explained](https://techcommunity.microsoft.com/t5/startups-at-microsoft/key-architectural-differences-between-aws-and-azure-explained/ba-p/4244702)
