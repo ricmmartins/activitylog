@@ -4,6 +4,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [Dynamic Multi-Cloud Networking: Configuring a BGP-Enabled VPN Between Azure and AWS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/dynamic-multi-cloud-networking-configuring-a-bgp-enabled-vpn/ba-p/4281443)
   - [How to easily set up a VPN between Azure and AWS using managed services (Updated 2024)](https://techcommunity.microsoft.com/t5/startups-at-microsoft/how-to-easily-set-up-a-vpn-between-azure-and-aws-using-managed/ba-p/4278966)  
   - [Advanced Alerting Strategies for Azure Monitoring](https://techcommunity.microsoft.com/t5/startups-at-microsoft/advanced-alerting-strategies-for-azure-monitoring/ba-p/4268698)
   - [AKS Standard vs. AKS Automatic: A Comprehensive Comparison](https://techcommunity.microsoft.com/t5/startups-at-microsoft/aks-standard-vs-aks-automatic-a-comprehensive-comparison/ba-p/4264516)
