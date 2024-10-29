@@ -16,7 +16,13 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Slash Your Azure Bill: Top Tips for Startups](https://techcommunity.microsoft.com/t5/startups-at-microsoft/slash-your-azure-bill-top-tips-for-startups/ba-p/4141839)
   - [Building a Secure and Scalable Foundation for Your Startup on Azure](https://techcommunity.microsoft.com/t5/startups-at-microsoft/building-a-secure-and-scalable-foundation-for-your-startup-on/ba-p/4146456)
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
-  
+
+- Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Alta Disponibilidade e Recuperação de Desastres no Azure: Um Guia Completo](https://www.azurebrasil.cloud/alta-disponibilidade-e-recuperacao-de-desastres-no-azure-um-guia-completo/)
+  - [Implementando Governança no Azure](https://www.azurebrasil.cloud/implementando-governanca-no-azure/)
+  - [Conceitos Essenciais de Redes no Azure](https://www.azurebrasil.cloud/conteitos-essenciais-de-redes-no-azure/)
+  - [Tarefas essenciais para criar uma base de segurança no Azure](https://www.azurebrasil.cloud/tarefas-essenciais-para-criar-uma-base-de-seguranca-no-azure/)
+  - [Melhores Práticas para Gerenciamento de Recursos no Azure](https://www.azurebrasil.cloud/melhores-praticas-para-gerenciamento-de-recursos-no-azure/)
 
 - Learning Guides I created:
   - [AKS Learning Path](https://aks-learning.github.io/learningpath/)
