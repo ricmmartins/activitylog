@@ -19,6 +19,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Escalabilidade e Otimização de Desempenho no Azure](https://www.azurebrasil.cloud/escalabilidade-e-otimizacao-de-desempenho-no-azure/)
   - [Monitoramento e Observabilidade no Azure](https://www.azurebrasil.cloud/monitoramento-e-observabilidade-no-azure)  
   - [Alta Disponibilidade e Recuperação de Desastres no Azure: Um Guia Completo](https://www.azurebrasil.cloud/alta-disponibilidade-e-recuperacao-de-desastres-no-azure-um-guia-completo/)
   - [Implementando Governança no Azure](https://www.azurebrasil.cloud/implementando-governanca-no-azure/)
