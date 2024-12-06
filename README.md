@@ -4,6 +4,8 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
+  - [Choosing the Right Networking Model for Azure Kubernetes Service (AKS): Azure CNI vs. Kubenet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/choosing-the-right-networking-model-for-azure-kubernetes-service-aks-azure-cni-v/4351872)
   - [Effective Monitoring of Azure PostgreSQL for Azure OpenAI Workloads](https://techcommunity.microsoft.com/t5/startups-at-microsoft/effective-monitoring-of-azure-postgresql-for-azure-openai/ba-p/4286550#M140)
   - [Dynamic Multi-Cloud Networking: Configuring a BGP-Enabled VPN Between Azure and AWS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/dynamic-multi-cloud-networking-configuring-a-bgp-enabled-vpn/ba-p/4281443)
   - [How to easily set up a VPN between Azure and AWS using managed services (Updated 2024)](https://techcommunity.microsoft.com/t5/startups-at-microsoft/how-to-easily-set-up-a-vpn-between-azure-and-aws-using-managed/ba-p/4278966)  
