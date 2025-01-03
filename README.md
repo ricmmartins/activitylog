@@ -3,6 +3,12 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
+- Collections I've created at Microsoft Learn:
+  - [Azure for AWS Professionals](https://aka.ms/Azure4AWSPros)
+  - [Exam AZ-305 (Azure Solutions Architect Expert) Training](https://aka.ms/az-305-training)
+  - [Exam AZ-400 (Designing and Implementing Microsoft DevOps Solutions) Training](https://aka.ms/az-400-training)
+
+
 - Articles I wrote to Startups at Microsoft Blog:
   - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
   - [Choosing the Right Networking Model for Azure Kubernetes Service (AKS): Azure CNI vs. Kubenet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/choosing-the-right-networking-model-for-azure-kubernetes-service-aks-azure-cni-v/4351872)
@@ -54,6 +60,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
     
 - Microsoft Learn Modules I wrote:
+  - [Introduction to Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/)
   - [Intro to Azure DNS Private Resolver](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
   - [Intro to Azure Blueprints](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
   - [Intro to Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
