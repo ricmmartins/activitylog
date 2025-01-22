@@ -10,6 +10,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [Azure Workbooks: Advanced Customization and Data Visualization in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-workbooks-advanced-customization-and-data-visualization-in-azure/4369588)
   - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
   - [Choosing the Right Networking Model for Azure Kubernetes Service (AKS): Azure CNI vs. Kubenet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/choosing-the-right-networking-model-for-azure-kubernetes-service-aks-azure-cni-v/4351872)
   - [Effective Monitoring of Azure PostgreSQL for Azure OpenAI Workloads](https://techcommunity.microsoft.com/t5/startups-at-microsoft/effective-monitoring-of-azure-postgresql-for-azure-openai/ba-p/4286550#M140)
