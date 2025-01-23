@@ -28,6 +28,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Segurança proativa no Azure: Implementando zero trust de forma eficaz](https://www.azurebrasil.cloud/seguranca-proativa-no-azure-implementando-zero-trust-de-forma-eficaz/)
   - [Azure Workbooks: Personalização e Visualização Avançada de Dados no Azure](https://www.azurebrasil.cloud/azure-workbooks-personalizacao-e-visualizacao-avancada-de-dados-no-azure/)
   - [Tendências e o futuro da infraestrutura no Azure](https://www.azurebrasil.cloud/tendencias-e-o-futuro-da-infraestrutura-no-azure/)
   - [Infraestrutura como Código no Azure: Ferramentas, Estratégias e Melhores Práticas](https://www.azurebrasil.cloud/infraestrutura-como-codigo-no-azure-ferramentas-estrategias-e-melhores-praticas/)
