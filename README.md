@@ -61,6 +61,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Configure ARO to use Azure AD](https://mobb.ninja/docs/idp/azuread-aro/)
   - [Azure Front Door with ARO ( Azure Red Hat OpenShift )](https://mobb.ninja/docs/aro/frontdoor/)
   - [Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
+  - [Configure ARO to use Microsoft Entra ID Group Claims](https://cloud.redhat.com/experts/idp/group-claims/aro/)
     
 - Microsoft Learn Modules I wrote:
   - [Introduction to Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/)
