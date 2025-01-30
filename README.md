@@ -10,6 +10,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [The importance of setting up service and resource health monitoring in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-importance-of-setting-up-service-and-resource-health-monitoring-in-azure/4372478)
   - [How Azure Advisor can help you to optimize cloud resources](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/how-azure-advisor-can-help-you-to-optimize-cloud-resources/4372082)
   - [Azure Workbooks: Advanced Customization and Data Visualization in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-workbooks-advanced-customization-and-data-visualization-in-azure/4369588)
   - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
