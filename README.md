@@ -34,6 +34,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Implementando observabilidade em contêineres com Azure Monitor e AKS](https://www.azurebrasil.cloud/implementando-observabilidade-em-conteineres-com-azure-monitor-e-aks/)
   - [Monitoramento proativo de redes no Azure com Network Watcher](https://www.azurebrasil.cloud/monitoramento-proativo-de-redes-no-azure-com-network-watcher/)
   - [Azure Load Balancer vs. Application Gateway: Qual escolher?](https://www.azurebrasil.cloud/blog/azure-load-balancer-vs-application-gateway-qual-escolher/)
   - [Azure Arc: Gerenciando recursos Multi-Cloud e On-Premises](https://www.azurebrasil.cloud/blog/azure-arc-gerenciando-recursos-multi-cloud-e-on-premises/)
