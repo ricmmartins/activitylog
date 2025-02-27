@@ -10,6 +10,8 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [From zero to hero with identity and access control in Azure Kubernetes Service](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-with-identity-and-access-control-in-azure-kubernetes-service/4386350)
+  - 
   - [How to automatically shut down idle VMs in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/how-to-automatically-shut-down-idle-vms-in-azure/4376055)
   - [Building a cost-effective & resilient Azure Infrastructure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/building-a-cost-effective--resilient-azure-infrastructure/4376152)
   - [Azure Kubernetes Service – A friendly guide for Startups](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-kubernetes-service-%E2%80%93-a-friendly-guide-for-startups/4374796)
