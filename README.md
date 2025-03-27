@@ -10,6 +10,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [From zero to hero: Mastering storage in Azure Kubernetes Service (AKS)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-mastering-storage-in-azure-kubernetes-service-aks/4397734)
   - [Getting started with Azure Developer CLI (azd)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/getting-started-with-azure-developer-cli-azd/4392010)
   - [From zero to hero with identity and access control in Azure Kubernetes Service](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-with-identity-and-access-control-in-azure-kubernetes-service/4386350)
   - [How to automatically shut down idle VMs in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/how-to-automatically-shut-down-idle-vms-in-azure/4376055)
