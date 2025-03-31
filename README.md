@@ -10,6 +10,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [AKS networking made easy: Your comprehensive guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/aks-networking-made-easy-your-comprehensive-guide/4398603)
   - [Embracing AKS built-in upgrade features and exploring custom solutions](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/embracing-aks-built-in-upgrade-features-and-exploring-custom-solutions/4398230) 
   - [From zero to hero: Mastering storage in Azure Kubernetes Service (AKS)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-mastering-storage-in-azure-kubernetes-service-aks/4397734)
   - [Getting started with Azure Developer CLI (azd)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/getting-started-with-azure-developer-cli-azd/4392010)
