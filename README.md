@@ -63,6 +63,9 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Tarefas essenciais para criar uma base de segurança no Azure](https://www.azurebrasil.cloud/blog/tarefas-essenciais-para-criar-uma-base-de-seguranca-no-azure/)
   - [Melhores Práticas para Gerenciamento de Recursos no Azure](https://www.azurebrasil.cloud/blog/melhores-praticas-para-gerenciamento-de-recursos-no-azure/)
 
+- Azure Digital Natives Checklist I created:
+  - [Azure Digital Natives Checklist](https://azdnguide.com/)
+
 - Learning Guides I created:
   - [AKS Learning Path](https://aks-learning.github.io/learningpath/)
   - Azure Fundamentals
