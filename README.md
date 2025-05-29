@@ -10,6 +10,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [A practical guide to Azure VM SKU capacity monitoring](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/a-practical-guide-to-azure-vm-sku-capacity-monitoring/4415773)
   - [The Digital Native's Checklist for Azure: Stuff I wish every startup knew](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-digital-natives-checklist-for-azure-stuff-i-wish-every-startup-knew/4406669)
   - [AKS networking made easy: Your comprehensive guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/aks-networking-made-easy-your-comprehensive-guide/4398603)
   - [Embracing AKS built-in upgrade features and exploring custom solutions](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/embracing-aks-built-in-upgrade-features-and-exploring-custom-solutions/4398230) 
@@ -39,6 +40,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Implementando GitOps com Flux no Azure Kubernetes Service (AKS)](https://www.azurebrasil.cloud/implementando-gitops-com-flux-no-azure-kubernetes-service-aks/)
   - [Gerenciando identidade e acesso no Azure: RBAC avançado, Entra ID e PIM na prática](https://www.azurebrasil.cloud/gerenciando-identidade-e-acesso-no-azure-rbac-avancado-entra-id-e-pim-na-pratica/)
   - [Azure Landing Zones com Terraform: como padronizar e automatizar ambientes multi-cloud-ready](https://www.azurebrasil.cloud/azure-landing-zones-com-terraform-como-padronizar-e-automatizar-ambientes-multi-cloud-ready/)
   - [Hardening de máquinas virtuais no Azure: práticas avançadas de segurança usando Defender for Cloud e Azure Policy](https://www.azurebrasil.cloud/hardening-de-maquinas-virtuais-no-azure-praticas-avancadas-de-seguranca-usando-defender-for-cloud-e-azure-policy/)
