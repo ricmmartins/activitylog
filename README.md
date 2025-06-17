@@ -40,6 +40,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Gerenciando ambientes multi-região no Azure: alta disponibilidade, replicação e failover inteligente](https://www.azurebrasil.cloud/gerenciando-ambientes-multi-regiao-no-azure-alta-disponibilidade-replicacao-e-failover-inteligente/)
   - [Implementando GitOps com Flux no Azure Kubernetes Service (AKS)](https://www.azurebrasil.cloud/implementando-gitops-com-flux-no-azure-kubernetes-service-aks/)
   - [Gerenciando identidade e acesso no Azure: RBAC avançado, Entra ID e PIM na prática](https://www.azurebrasil.cloud/gerenciando-identidade-e-acesso-no-azure-rbac-avancado-entra-id-e-pim-na-pratica/)
   - [Azure Landing Zones com Terraform: como padronizar e automatizar ambientes multi-cloud-ready](https://www.azurebrasil.cloud/azure-landing-zones-com-terraform-como-padronizar-e-automatizar-ambientes-multi-cloud-ready/)
