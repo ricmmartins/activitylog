@@ -40,6 +40,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Segurança de redes no Azure: segmentação, inspeção de tráfego e microsegmentação com Azure Firewall, NSG e Private Endpoints](https://www.azurebrasil.cloud/seguranca-de-redes-no-azure-segmentacao-inspecao-de-trafego-e-microsegmentacao-com-azure-firewall-nsg-e-private-endpoints/)
   - [Gerenciando ambientes multi-região no Azure: alta disponibilidade, replicação e failover inteligente](https://www.azurebrasil.cloud/gerenciando-ambientes-multi-regiao-no-azure-alta-disponibilidade-replicacao-e-failover-inteligente/)
   - [Implementando GitOps com Flux no Azure Kubernetes Service (AKS)](https://www.azurebrasil.cloud/implementando-gitops-com-flux-no-azure-kubernetes-service-aks/)
   - [Gerenciando identidade e acesso no Azure: RBAC avançado, Entra ID e PIM na prática](https://www.azurebrasil.cloud/gerenciando-identidade-e-acesso-no-azure-rbac-avancado-entra-id-e-pim-na-pratica/)
