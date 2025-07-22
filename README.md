@@ -40,6 +40,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Explorando o Azure Resource Graph: consultas úteis para governança, segurança e inventário](https://www.azurebrasil.cloud/explorando-o-azure-resource-graph-consultas-uteis-para-governanca-seguranca-e-inventario/)
   - [Implementando DNS privado no Azure: boas práticas com Private DNS Zones e integração com Private Endpoints](https://www.azurebrasil.cloud/implementando-dns-privado-no-azure-boas-praticas-com-private-dns-zones-e-integracao-com-private-endpoints/) 
   - [Gerenciando imagens de máquinas com Azure Compute Gallery: consistência e automação de VMs](https://www.azurebrasil.cloud/gerenciando-imagens-de-maquinas-com-azure-compute-gallery-consistencia-e-automacao-de-vms/)
   - [Protegendo dados em repouso e em trânsito no Azure: criptografia de ponta a ponta com Key Vault, TLS e BYOK](https://www.azurebrasil.cloud/protegendo-dados-em-repouso-e-em-transito-no-azure-criptografia-de-ponta-a-ponta-com-key-vault-tls-e-byok/)
