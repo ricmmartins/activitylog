@@ -10,6 +10,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 
 - Articles I wrote to Startups at Microsoft Blog:
+  - [Azure Quota Alerts (Preview): Still overlooked, but incredibly useful](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-quota-alerts-preview-still-overlooked-but-incredibly-useful/4447140)
   - [Azure Support Slack Bot on Azure Container Apps: Production-ready guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-support-slack-bot-on-azure-container-apps-production-ready-guide/4436423)
   - [A practical guide to Azure VM SKU capacity monitoring](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/a-practical-guide-to-azure-vm-sku-capacity-monitoring/4415773)
   - [The Digital Native's Checklist for Azure: Stuff I wish every startup knew](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-digital-natives-checklist-for-azure-stuff-i-wish-every-startup-knew/4406669)
