@@ -42,6 +42,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Avaliando riscos com Microsoft Defender for Cloud: como priorizar recomendações de segurança no Azure](https://www.azurebrasil.cloud/blog/avaliando-riscos-com-microsoft-defender-for-cloud-como-priorizar-recomendacoes-de-seguranca-no-azure/)
   - [Monitoramento de custos no Azure: como usar Budgets, Cost Alerts e integração com Power BI](https://www.azurebrasil.cloud/blog/monitoramento-de-custos-no-azure-como-usar-budgets-cost-alerts-e-integracao-com-power-bi/)
   - [Controle de acesso Just-in-Time (JIT) com Azure Bastion e Azure AD: acesso seguro e sob demanda às VMs](https://www.azurebrasil.cloud/blog/controle-de-acesso-just-in-time-jit-com-azure-bastion-e-azure-ad-acesso-seguro-e-sob-demanda-as-vms/)
   - [Explorando o Azure Resource Graph: consultas úteis para governança, segurança e inventário](https://www.azurebrasil.cloud/explorando-o-azure-resource-graph-consultas-uteis-para-governanca-seguranca-e-inventario/)
