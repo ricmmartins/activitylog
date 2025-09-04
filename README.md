@@ -9,7 +9,9 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Exam AZ-400 (Designing and Implementing Microsoft DevOps Solutions) Training](https://aka.ms/az-400-training)
 
 
-- Articles I wrote to Startups at Microsoft Blog:
+- Articles I wrote to [All Things Azure Blog](https://devblogs.microsoft.com/all-things-azure/)
+  - [Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI(https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai/)
+- Articles I wrote to [Startups at Microsoft Blog](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog):
   - [Azure Quota Alerts (Preview): Still overlooked, but incredibly useful](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-quota-alerts-preview-still-overlooked-but-incredibly-useful/4447140)
   - [Azure Support Slack Bot on Azure Container Apps: Production-ready guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-support-slack-bot-on-azure-container-apps-production-ready-guide/4436423)
   - [A practical guide to Azure VM SKU capacity monitoring](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/a-practical-guide-to-azure-vm-sku-capacity-monitoring/4415773)
