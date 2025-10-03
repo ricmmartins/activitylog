@@ -13,6 +13,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI](https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai/)
     
 - Articles I wrote to [Startups at Microsoft Blog](https://techcommunity.microsoft.com/category/startupsatmicrosoft/blog/startupsatmicrosoftblog):
+  - [Monitoring Azure OpenAI without switching from your existing observability platform](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/monitoring-azure-openai-without-switching-from-your-existing-observability-platf/4458898)
   - [Azure routing preference: A hidden lever for performance vs. cost trade-offs](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-routing-preference-a-hidden-lever-for-performance-vs-cost-trade-offs/4451425)
   - [Azure Quota Alerts (Preview): Still overlooked, but incredibly useful](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-quota-alerts-preview-still-overlooked-but-incredibly-useful/4447140)
   - [Azure Support Slack Bot on Azure Container Apps: Production-ready guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-support-slack-bot-on-azure-container-apps-production-ready-guide/4436423)
