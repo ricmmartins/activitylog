@@ -47,6 +47,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Arquiteturas de Rede no Azure: design escalável e seguro com Hub-Spoke, Virtual WAN e Private Endpoints](https://www.azurebrasil.cloud/blog/arquiteturas-de-rede-no-azure-design-escalavel-e-seguro-com-hub-spoke-virtual-wan-e-private-endpoints/)
   - [Checklist completo para projetos prontos para produção no Azure](https://www.azurebrasil.cloud/blog/checklist-completo-para-projetos-prontos-para-producao-no-azure/)
   - [Infraestrutura como Código no Azure com Pulumi: deploy de VMs com NGINX e MySQL](https://www.azurebrasil.cloud/blog/infraestrutura-como-codigo-no-azure-com-pulumi-deploy-de-vms-com-nginx-e-mysql/)
   - [Gerenciando o ciclo de vida de secrets no Azure Key Vault: rotação, expiração e automação](https://www.azurebrasil.cloud/blog/gerenciando-o-ciclo-de-vida-de-secrets-no-azure-key-vault-rotacao-expiracao-e-automacao/)
