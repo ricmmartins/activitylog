@@ -3,6 +3,12 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 ## 📝 Writings
 
+- My projects:
+  - [AI for Infra - The practical AI handbook for infrastructure engineers ](https://ai4infra.com)
+  - [Azure Digital Natives Checklist](https://azdnguide.com/)
+  - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
+  - [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://linuxhackathon.com) | [What The Hack - Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)   
+
 - Collections I've created at Microsoft Learn:
   - [Azure for AWS Professionals](https://aka.ms/Azure4AWSPros)
   - [Exam AZ-305 (Azure Solutions Architect Expert) Training](https://aka.ms/az-305-training)
@@ -88,9 +94,6 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Tarefas essenciais para criar uma base de segurança no Azure](https://www.azurebrasil.cloud/blog/tarefas-essenciais-para-criar-uma-base-de-seguranca-no-azure/)
   - [Melhores Práticas para Gerenciamento de Recursos no Azure](https://www.azurebrasil.cloud/blog/melhores-praticas-para-gerenciamento-de-recursos-no-azure/)
 
-- Azure Digital Natives Checklist I created:
-  - [Azure Digital Natives Checklist](https://azdnguide.com/)
-
 - Learning Guides I created:
   - [AKS Learning Path](https://aks-learning.github.io/learningpath/)
   - Azure Fundamentals
@@ -130,13 +133,6 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Implementing your own ELK Stack on Azure through CLI](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/implementing-your-own-elk-stack-on-azure-through-cli/ba-p/2282939)
   - [How to create a VPN between Azure and AWS using only managed solutions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-a-vpn-between-azure-and-aws-using-only-managed/ba-p/2281900)
   
-- E-book I wrote about Azure Governance:
-  - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
-
-- Hackathon I've created for Microsoft
-  -  [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://linuxhackathon.com)
-    - [What The Hack - Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)   
-
 - Other stuff I've created 
   - [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
   - [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
