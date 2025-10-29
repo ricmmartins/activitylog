@@ -4,7 +4,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - My projects:
-  - [AI for Infra - The practical AI handbook for infrastructure engineers ](https://ai4infra.com)
+  - [AI for Infra - The practical AI handbook for infrastructure engineers ](https://www.ai4infra.com)
   - [Azure Digital Natives Checklist](https://azdnguide.com/)
   - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
   - [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://linuxhackathon.com) | [What The Hack - Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)   
