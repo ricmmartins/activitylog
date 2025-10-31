@@ -19,6 +19,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI](https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai/)
     
 - Articles I wrote to Startups at Microsoft Blog:
+  - [Azure capacity planning: Using quotas, reservations, vmss instance mix, and compute fleet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-capacity-planning-using-quotas-reservations-vmss-instance-mix-and-compute-/4464893)
   - [Azure Monitor 101: The missing guide to understanding monitoring on Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-monitor-101-the-missing-guide-to-understanding-monitoring-on-azure/4462799)
   - [Monitoring Azure OpenAI without switching from your existing observability platform](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/monitoring-azure-openai-without-switching-from-your-existing-observability-platf/4458898)
   - [Azure routing preference: A hidden lever for performance vs. cost trade-offs](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-routing-preference-a-hidden-lever-for-performance-vs-cost-trade-offs/4451425)
