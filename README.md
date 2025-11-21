@@ -55,6 +55,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Como otimizar custo e disponibilidade com múltiplos SKUs e zonas](https://www.azurebrasil.cloud/blog/como-otimizar-custo-e-disponibilidade-com-multiplos-skus-e-zonas/) 
   - [Como expor serviços internos de forma segura e sem IP público](https://www.azurebrasil.cloud/blog/como-expor-servicos-internos-de-forma-segura-e-sem-ip-publico/)  
   - [Azure Compute: escolhendo o SKU ideal de VM para seu workload](https://www.azurebrasil.cloud/blog/azure-compute-escolhendo-o-sku-ideal-de-vm-para-seu-workload/)
   - [Estratégias de Armazenamento no Azure: desempenho, redundância e custo](https://www.azurebrasil.cloud/blog/estrategias-de-armazenamento-no-azure-desempenho-redundancia-e-custo/)
