@@ -56,6 +56,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Azure Quota API e Capacity Management: como evitar bloqueios de escala no Azure](https://www.azurebrasil.cloud/blog/azure-quota-api-e-capacity-management-como-evitar-bloqueios-de-escala-no-azure/)
   - [ExpressRoute Global Reach no Azure: Conectividade privada e multi-região com o backbone da Microsoft](https://www.azurebrasil.cloud/blog/expressroute-global-reach-no-azure-conectividade-privada-e-multi-regiao-com-o-backbone-da-microsoft/)
   - [Como otimizar custo e disponibilidade com múltiplos SKUs e zonas](https://www.azurebrasil.cloud/blog/como-otimizar-custo-e-disponibilidade-com-multiplos-skus-e-zonas/) 
   - [Como expor serviços internos de forma segura e sem IP público](https://www.azurebrasil.cloud/blog/como-expor-servicos-internos-de-forma-segura-e-sem-ip-publico/)  
