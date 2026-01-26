@@ -19,6 +19,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI](https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai/)
     
 - Articles I wrote to Startups at Microsoft Blog:
+  - [When and why startups add a Gateway in front of Azure AI Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/when-and-why-startups-add-a-gateway-in-front-of-azure-ai-foundry/4489490)
   - [The comprehensive playbook for Identity, Resource, and Billing Separation](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-comprehensive-playbook-for-identity-resource-and-billing-separation/4471854)
   - [Azure capacity planning: Using quotas, reservations, vmss instance mix, and compute fleet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-capacity-planning-using-quotas-reservations-vmss-instance-mix-and-compute-/4464893)
   - [Azure Monitor 101: The missing guide to understanding monitoring on Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-monitor-101-the-missing-guide-to-understanding-monitoring-on-azure/4462799)
