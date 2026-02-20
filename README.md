@@ -58,6 +58,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [FinOps aplicado a workloads de IA no Azure](https://www.azurebrasil.cloud/blog/finops-aplicado-a-workloads-de-ia-no-azure/)
   - [Observabilidade avançada para GPU e inferência no Azure](https://www.azurebrasil.cloud/blog/observabilidade-avancada-para-gpu-e-inferencia-no-azure/)
   - [AKS multi-cluster para IA: Arquitetura, escalabilidade e resiliência em produção](https://www.azurebrasil.cloud/blog/aks-multi-cluster-para-ia-arquitetura-escalabilidade-e-resiliencia-em-producao/)
   - [Infraestrutura para workloads de IA no Azure: GPUs, escalabilidade e resiliência em produção](https://www.azurebrasil.cloud/blog/infraestrutura-para-workloads-de-ia-no-azure-gpus-escalabilidade-e-resiliencia-em-producao/)
