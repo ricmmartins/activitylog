@@ -4,6 +4,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - My projects:
+  - [Startup-Scale Langing Zone - Opinionated, deployable Azure Landing Zone for digital-native companies and startups](https://azurelanding.zone/)
   - [AI for Infra - The practical AI handbook for infrastructure engineers ](https://www.ai4infra.com)
   - [Azure Digital Natives Checklist](https://azdnguide.com/)
   - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
@@ -58,6 +59,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+  - [Inferência global com Azure Front Door, AI Gateway e Private Link](https://www.azurebrasil.cloud/blog/arquiteturas-de-rede-no-azure-design-escalavel-e-seguro-com-hub-spoke-virtual-wan-e-private-endpoints-2/)
   - [FinOps aplicado a workloads de IA no Azure](https://www.azurebrasil.cloud/blog/finops-aplicado-a-workloads-de-ia-no-azure/)
   - [Observabilidade avançada para GPU e inferência no Azure](https://www.azurebrasil.cloud/blog/observabilidade-avancada-para-gpu-e-inferencia-no-azure/)
   - [AKS multi-cluster para IA: Arquitetura, escalabilidade e resiliência em produção](https://www.azurebrasil.cloud/blog/aks-multi-cluster-para-ia-arquitetura-escalabilidade-e-resiliencia-em-producao/)
