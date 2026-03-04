@@ -4,7 +4,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - My projects:
-  - [Startup-Scale Langing Zone - Opinionated, deployable Azure Landing Zone for digital-native companies and startups](https://azurelanding.zone/)
+  - [Startup-Scale Langing Zone - Opinionated, deployable Azure Landing Zone for digital-native companies and startups](https://startupscalelanding.zone/)
   - [AI for Infra - The practical AI handbook for infrastructure engineers ](https://www.ai4infra.com)
   - [Azure Digital Natives Checklist](https://azdnguide.com/)
   - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
