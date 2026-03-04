@@ -6,6 +6,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 - My projects:
   - [AKS Newsletter - Monthly curated updates on Azure Kubernetes Service](https://aksnewsletter.com/)
   - [Startup-Scale Langing Zone - Opinionated, deployable Azure Landing Zone for digital-native companies and startups](https://startupscalelanding.zone/)
+  - [PTU Calculator - Optimize your Azure OpenAI costs by analyzing real usage patterns and comparing PAYGO, PTU, and hybrid pricing models](https://ptucalc.com/)
   - [AI for Infra - The practical AI handbook for infrastructure engineers ](https://www.ai4infra.com)
   - [Azure Digital Natives Checklist](https://azdnguide.com/)
   - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
