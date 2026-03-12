@@ -4,6 +4,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 ## 📝 Writings
 
 - My projects:
+  - [Azure Feed - Daily updates from Azure blogs](https://azurefeed.news/)
   - [AKS Newsletter - Monthly curated updates on Azure Kubernetes Service](https://aksnewsletter.com/)
   - [Startup-Scale Langing Zone - Opinionated, deployable Azure Landing Zone for digital-native companies and startups](https://startupscalelanding.zone/)
   - [PTU Calculator - Optimize your Azure OpenAI costs by analyzing real usage patterns and comparing PAYGO, PTU, and hybrid pricing models](https://ptucalc.com/)
