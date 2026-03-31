@@ -62,6 +62,8 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+
+  - [SRE no Azure: implementando SLIs, SLOs e Error Budgets com Azure Monitor](https://www.azurebrasil.cloud/blog/sre-no-azure-implementando-slis-slos-e-error-budgets-com-azure-monitor/)
   - [Engenharia de Caos no Azure: validando resiliência em produção com Azure Chaos Studio](https://www.azurebrasil.cloud/blog/engenharia-de-caos-no-azure-validando-resiliencia-em-producao-com-azure-chaos-studio/)
   - [Multi-cluster networking avançado para AKS](https://www.azurebrasil.cloud/blog/multi-cluster-networking-avancado-para-aks/)
   - [Inferência global com Azure Front Door, AI Gateway e Private Link](https://www.azurebrasil.cloud/blog/arquiteturas-de-rede-no-azure-design-escalavel-e-seguro-com-hub-spoke-virtual-wan-e-private-endpoints-2/)
