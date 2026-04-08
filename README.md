@@ -64,6 +64,7 @@ This is a place to list some of my highlighted writings, presentations, guides, 
 
 - Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
 
+  - [Resposta a incidentes no Azure: automação de alertas, runbooks e integração com ferramentas de on-call](https://www.azurebrasil.cloud/blog/resposta-a-incidentes-no-azure-automacao-de-alertas-runbooks-e-integracao-com-ferramentas-de-on-call/)
   - [SRE no Azure: implementando SLIs, SLOs e Error Budgets com Azure Monitor](https://www.azurebrasil.cloud/blog/sre-no-azure-implementando-slis-slos-e-error-budgets-com-azure-monitor/)
   - [Engenharia de Caos no Azure: validando resiliência em produção com Azure Chaos Studio](https://www.azurebrasil.cloud/blog/engenharia-de-caos-no-azure-validando-resiliencia-em-producao-com-azure-chaos-studio/)
   - [Multi-cluster networking avançado para AKS](https://www.azurebrasil.cloud/blog/multi-cluster-networking-avancado-para-aks/)
