@@ -23,10 +23,12 @@ This is a place to list some of my highlighted writings, presentations, guides, 
   - [Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI](https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai/)
     
 - Articles I wrote to Startups at Microsoft Blog:
+  - [Role Structures, Anti-Patterns, and the 10 Governance Principles](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/role-structures-anti-patterns-and-the-10-governance-principles/4510070)
+  - [Marketplace governance and the cross-plane bridge](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/marketplace-governance-and-the-cross-plane-bridge/4510067)
   - [Introducing the Startup-Scale Landing Zone: Get Azure right from day one](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/introducing-the-startup-scale-landing-zone-get-azure-right-from-day-one/4501566)
   - [Production-grade API Gateway patterns for Microsoft Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/production-grade-api-gateway-patterns-for-microsoft-foundry/4490494)
   - [When and why startups add a Gateway in front of Azure AI Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/when-and-why-startups-add-a-gateway-in-front-of-azure-ai-foundry/4489490)
-  - [The comprehensive playbook for Identity, Resource, and Billing Separation](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-comprehensive-playbook-for-identity-resource-and-billing-separation/4471854)
+  - [Azure has three permission systems, and you're probably confusing them](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-has-three-permission-systems-and-youre-probably-confusing-them/4471854)
   - [Azure capacity planning: Using quotas, reservations, vmss instance mix, and compute fleet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-capacity-planning-using-quotas-reservations-vmss-instance-mix-and-compute-/4464893)
   - [Azure Monitor 101: The missing guide to understanding monitoring on Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-monitor-101-the-missing-guide-to-understanding-monitoring-on-azure/4462799)
   - [Monitoring Azure OpenAI without switching from your existing observability platform](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/monitoring-azure-openai-without-switching-from-your-existing-observability-platf/4458898)
