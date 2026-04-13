@@ -1,247 +1,307 @@
-# Writings, Presentations, Guides, Video How-to's and Webinars
-This is a place to list some of my highlighted writings, presentations, guides, video how-to's and webinars. Some content are in Brazilian Portuguese and others in English.
+# Activity Log — Ricardo Martins
 
-## 📝 Writings
+> A curated catalog of my writings, open-source projects, official Microsoft contributions, presentations, and community work.
 
-- My projects:
-  - [Azure Feed - Daily updates from Azure blogs](https://azurefeed.news/)
-  - [AKS Newsletter - Monthly curated updates on Azure Kubernetes Service](https://aksnewsletter.com/)
-  - [Startup-Scale Langing Zone - Opinionated, deployable Azure Landing Zone for digital-native companies and startups](https://startupscalelanding.zone/)
-  - [PTU Calculator - Optimize your Azure OpenAI costs by analyzing real usage patterns and comparing PAYGO, PTU, and hybrid pricing models](https://ptucalc.com/)
-  - [AI for Infra - The practical AI handbook for infrastructure engineers ](https://www.ai4infra.com)
-  - [Azure Digital Natives Checklist](https://azdnguide.com/)
-  - [Ebook - Azure Governance Made Simple](https://book.azgovernance.com)
-  - [Linux Hackathon - The 1st Linux "Hackathon" by Microsoft!](https://linuxhackathon.com) | [What The Hack - Linux Fundamentals](https://microsoft.github.io/WhatTheHack/020-LinuxFundamentals/)   
+---
 
-- Collections I've created at Microsoft Learn:
-  - [Azure for AWS Professionals](https://aka.ms/Azure4AWSPros)
-  - [Exam AZ-305 (Azure Solutions Architect Expert) Training](https://aka.ms/az-305-training)
-  - [Exam AZ-400 (Designing and Implementing Microsoft DevOps Solutions) Training](https://aka.ms/az-400-training)
+## 🔧 Open-Source Projects
 
+| Project | Description | Link |
+|---------|-------------|------|
+| 📘 AI for Infra | The practical AI handbook for infrastructure engineers — 220+ pages, 15 chapters, 10 troubleshooting scenarios | [ai4infra.com](https://ai4infra.com) |
+| 🧮 PTU Calculator | Azure OpenAI PTU Estimator — compare PAYGO, PTU, and hybrid pricing models | [ptucalc.com](https://ptucalc.com) |
+| 📗 Azure Governance Made Simple | 30-chapter ebook — identity, policy, IaC, cost, observability, governance at scale | [book.azgovernance.com](https://book.azgovernance.com) |
+| 🏗️ Startup-Scale Landing Zone | Opinionated Azure Landing Zone for startups — deploy in under 1 hour (Bicep + Terraform) | [startupscalelanding.zone](https://startupscalelanding.zone) |
+| 📰 AKS Newsletter | Monthly curated updates on Azure Kubernetes Service | [aksnewsletter.com](https://aksnewsletter.com) |
+| 🌐 Azure Digital Natives Guide | Comprehensive Azure checklist for startups and digital-native teams | [azdnguide.com](https://azdnguide.com) |
+| 📡 Azure Feed | Daily aggregated updates from Azure blogs | [azurefeed.news](https://azurefeed.news) |
+| 🐧 Linux Hackathon | The 1st Linux hackathon by Microsoft — part of the official "What The Hack" program | [linuxhackathon.com](https://linuxhackathon.com) |
 
-- Articles I wrote to [All Things Azure Blog](https://devblogs.microsoft.com/all-things-azure/)
-  - [Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI](https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai/)
-    
-- Articles I wrote to Startups at Microsoft Blog:
-  - [Role Structures, Anti-Patterns, and the 10 Governance Principles](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/role-structures-anti-patterns-and-the-10-governance-principles/4510070)
-  - [Marketplace governance and the cross-plane bridge](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/marketplace-governance-and-the-cross-plane-bridge/4510067)
-  - [Introducing the Startup-Scale Landing Zone: Get Azure right from day one](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/introducing-the-startup-scale-landing-zone-get-azure-right-from-day-one/4501566)
-  - [Production-grade API Gateway patterns for Microsoft Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/production-grade-api-gateway-patterns-for-microsoft-foundry/4490494)
-  - [When and why startups add a Gateway in front of Azure AI Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/when-and-why-startups-add-a-gateway-in-front-of-azure-ai-foundry/4489490)
-  - [Azure has three permission systems, and you're probably confusing them](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-has-three-permission-systems-and-youre-probably-confusing-them/4471854)
-  - [Azure capacity planning: Using quotas, reservations, vmss instance mix, and compute fleet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-capacity-planning-using-quotas-reservations-vmss-instance-mix-and-compute-/4464893)
-  - [Azure Monitor 101: The missing guide to understanding monitoring on Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-monitor-101-the-missing-guide-to-understanding-monitoring-on-azure/4462799)
-  - [Monitoring Azure OpenAI without switching from your existing observability platform](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/monitoring-azure-openai-without-switching-from-your-existing-observability-platf/4458898)
-  - [Azure routing preference: A hidden lever for performance vs. cost trade-offs](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-routing-preference-a-hidden-lever-for-performance-vs-cost-trade-offs/4451425)
-  - [Azure Quota Alerts (Preview): Still overlooked, but incredibly useful](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-quota-alerts-preview-still-overlooked-but-incredibly-useful/4447140)
-  - [Azure Support Slack Bot on Azure Container Apps: Production-ready guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-support-slack-bot-on-azure-container-apps-production-ready-guide/4436423)
-  - [A practical guide to Azure VM SKU capacity monitoring](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/a-practical-guide-to-azure-vm-sku-capacity-monitoring/4415773)
-  - [The Digital Native's Checklist for Azure: Stuff I wish every startup knew](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-digital-natives-checklist-for-azure-stuff-i-wish-every-startup-knew/4406669)
-  - [AKS networking made easy: Your comprehensive guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/aks-networking-made-easy-your-comprehensive-guide/4398603)
-  - [Embracing AKS built-in upgrade features and exploring custom solutions](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/embracing-aks-built-in-upgrade-features-and-exploring-custom-solutions/4398230) 
-  - [From zero to hero: Mastering storage in Azure Kubernetes Service (AKS)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-mastering-storage-in-azure-kubernetes-service-aks/4397734)
-  - [Getting started with Azure Developer CLI (azd)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/getting-started-with-azure-developer-cli-azd/4392010)
-  - [From zero to hero with identity and access control in Azure Kubernetes Service](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-with-identity-and-access-control-in-azure-kubernetes-service/4386350)
-  - [How to automatically shut down idle VMs in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/how-to-automatically-shut-down-idle-vms-in-azure/4376055)
-  - [Building a cost-effective & resilient Azure Infrastructure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/building-a-cost-effective--resilient-azure-infrastructure/4376152)
-  - [Azure Kubernetes Service – A friendly guide for Startups](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-kubernetes-service-%E2%80%93-a-friendly-guide-for-startups/4374796)
-  - [The importance of setting up service and resource health monitoring in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-importance-of-setting-up-service-and-resource-health-monitoring-in-azure/4372478)
-  - [How Azure Advisor can help you to optimize cloud resources](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/how-azure-advisor-can-help-you-to-optimize-cloud-resources/4372082)
-  - [Azure Workbooks: Advanced Customization and Data Visualization in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-workbooks-advanced-customization-and-data-visualization-in-azure/4369588)
-  - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
-  - [Choosing the Right Networking Model for Azure Kubernetes Service (AKS): Azure CNI vs. Kubenet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/choosing-the-right-networking-model-for-azure-kubernetes-service-aks-azure-cni-v/4351872)
-  - [Effective Monitoring of Azure PostgreSQL for Azure OpenAI Workloads](https://techcommunity.microsoft.com/t5/startups-at-microsoft/effective-monitoring-of-azure-postgresql-for-azure-openai/ba-p/4286550#M140)
-  - [Dynamic Multi-Cloud Networking: Configuring a BGP-Enabled VPN Between Azure and AWS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/dynamic-multi-cloud-networking-configuring-a-bgp-enabled-vpn/ba-p/4281443)
-  - [How to easily set up a VPN between Azure and AWS using managed services (Updated 2024)](https://techcommunity.microsoft.com/t5/startups-at-microsoft/how-to-easily-set-up-a-vpn-between-azure-and-aws-using-managed/ba-p/4278966)  
-  - [Advanced Alerting Strategies for Azure Monitoring](https://techcommunity.microsoft.com/t5/startups-at-microsoft/advanced-alerting-strategies-for-azure-monitoring/ba-p/4268698)
-  - [AKS Standard vs. AKS Automatic: A Comprehensive Comparison](https://techcommunity.microsoft.com/t5/startups-at-microsoft/aks-standard-vs-aks-automatic-a-comprehensive-comparison/ba-p/4264516)
-  - [Understanding Identity Concepts in AKS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/understanding-identity-concepts-in-aks/ba-p/4256435)
-  - [Azure Monitor & MELT: A Comprehensive Approach to Cloud Observability](https://techcommunity.microsoft.com/t5/startups-at-microsoft/azure-monitor-amp-melt-a-comprehensive-approach-to-cloud/ba-p/4251166)
-  - [Key Architectural Differences Between AWS and Azure Explained](https://techcommunity.microsoft.com/t5/startups-at-microsoft/key-architectural-differences-between-aws-and-azure-explained/ba-p/4244702)
-  - [From Zero to Hero with Azure Landing Zones](https://techcommunity.microsoft.com/t5/startups-at-microsoft/from-zero-to-hero-with-azure-landing-zones/ba-p/4229195)
-  - [Essential Steps to Kickstart Your Azure Journey](https://techcommunity.microsoft.com/t5/startups-at-microsoft/essential-steps-to-kickstart-your-azure-journey/ba-p/4227351)
-  - [Slash Your Azure Bill: Top Tips for Startups](https://techcommunity.microsoft.com/t5/startups-at-microsoft/slash-your-azure-bill-top-tips-for-startups/ba-p/4141839)
-  - [Building a Secure and Scalable Foundation for Your Startup on Azure](https://techcommunity.microsoft.com/t5/startups-at-microsoft/building-a-secure-and-scalable-foundation-for-your-startup-on/ba-p/4146456)
-  - [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
+---
 
-- Articles I wrote to Azure Brasil Blog (In Brazilian-Portuguese)
+## ✍️ Startups at Microsoft Blog
 
-  - [Resposta a incidentes no Azure: automação de alertas, runbooks e integração com ferramentas de on-call](https://www.azurebrasil.cloud/blog/resposta-a-incidentes-no-azure-automacao-de-alertas-runbooks-e-integracao-com-ferramentas-de-on-call/)
-  - [SRE no Azure: implementando SLIs, SLOs e Error Budgets com Azure Monitor](https://www.azurebrasil.cloud/blog/sre-no-azure-implementando-slis-slos-e-error-budgets-com-azure-monitor/)
-  - [Engenharia de Caos no Azure: validando resiliência em produção com Azure Chaos Studio](https://www.azurebrasil.cloud/blog/engenharia-de-caos-no-azure-validando-resiliencia-em-producao-com-azure-chaos-studio/)
-  - [Multi-cluster networking avançado para AKS](https://www.azurebrasil.cloud/blog/multi-cluster-networking-avancado-para-aks/)
-  - [Inferência global com Azure Front Door, AI Gateway e Private Link](https://www.azurebrasil.cloud/blog/arquiteturas-de-rede-no-azure-design-escalavel-e-seguro-com-hub-spoke-virtual-wan-e-private-endpoints-2/)
-  - [FinOps aplicado a workloads de IA no Azure](https://www.azurebrasil.cloud/blog/finops-aplicado-a-workloads-de-ia-no-azure/)
-  - [Observabilidade avançada para GPU e inferência no Azure](https://www.azurebrasil.cloud/blog/observabilidade-avancada-para-gpu-e-inferencia-no-azure/)
-  - [AKS multi-cluster para IA: Arquitetura, escalabilidade e resiliência em produção](https://www.azurebrasil.cloud/blog/aks-multi-cluster-para-ia-arquitetura-escalabilidade-e-resiliencia-em-producao/)
-  - [Infraestrutura para workloads de IA no Azure: GPUs, escalabilidade e resiliência em produção](https://www.azurebrasil.cloud/blog/infraestrutura-para-workloads-de-ia-no-azure-gpus-escalabilidade-e-resiliencia-em-producao/)
-  - [Azure Quota API e Capacity Management: como evitar bloqueios de escala no Azure](https://www.azurebrasil.cloud/blog/azure-quota-api-e-capacity-management-como-evitar-bloqueios-de-escala-no-azure/)
-  - [ExpressRoute Global Reach no Azure: Conectividade privada e multi-região com o backbone da Microsoft](https://www.azurebrasil.cloud/blog/expressroute-global-reach-no-azure-conectividade-privada-e-multi-regiao-com-o-backbone-da-microsoft/)
-  - [Como otimizar custo e disponibilidade com múltiplos SKUs e zonas](https://www.azurebrasil.cloud/blog/como-otimizar-custo-e-disponibilidade-com-multiplos-skus-e-zonas/) 
-  - [Como expor serviços internos de forma segura e sem IP público](https://www.azurebrasil.cloud/blog/como-expor-servicos-internos-de-forma-segura-e-sem-ip-publico/)  
-  - [Azure Compute: escolhendo o SKU ideal de VM para seu workload](https://www.azurebrasil.cloud/blog/azure-compute-escolhendo-o-sku-ideal-de-vm-para-seu-workload/)
-  - [Estratégias de Armazenamento no Azure: desempenho, redundância e custo](https://www.azurebrasil.cloud/blog/estrategias-de-armazenamento-no-azure-desempenho-redundancia-e-custo/)
-  - [Arquiteturas de Rede no Azure: design escalável e seguro com Hub-Spoke, Virtual WAN e Private Endpoints](https://www.azurebrasil.cloud/blog/arquiteturas-de-rede-no-azure-design-escalavel-e-seguro-com-hub-spoke-virtual-wan-e-private-endpoints/)
-  - [Checklist completo para projetos prontos para produção no Azure](https://www.azurebrasil.cloud/blog/checklist-completo-para-projetos-prontos-para-producao-no-azure/)
-  - [Infraestrutura como Código no Azure com Pulumi: deploy de VMs com NGINX e MySQL](https://www.azurebrasil.cloud/blog/infraestrutura-como-codigo-no-azure-com-pulumi-deploy-de-vms-com-nginx-e-mysql/)
-  - [Gerenciando o ciclo de vida de secrets no Azure Key Vault: rotação, expiração e automação](https://www.azurebrasil.cloud/blog/gerenciando-o-ciclo-de-vida-de-secrets-no-azure-key-vault-rotacao-expiracao-e-automacao/)
-  - [Avaliando riscos com Microsoft Defender for Cloud: como priorizar recomendações de segurança no Azure](https://www.azurebrasil.cloud/blog/avaliando-riscos-com-microsoft-defender-for-cloud-como-priorizar-recomendacoes-de-seguranca-no-azure/)
-  - [Monitoramento de custos no Azure: como usar Budgets, Cost Alerts e integração com Power BI](https://www.azurebrasil.cloud/blog/monitoramento-de-custos-no-azure-como-usar-budgets-cost-alerts-e-integracao-com-power-bi/)
-  - [Controle de acesso Just-in-Time (JIT) com Azure Bastion e Azure AD: acesso seguro e sob demanda às VMs](https://www.azurebrasil.cloud/blog/controle-de-acesso-just-in-time-jit-com-azure-bastion-e-azure-ad-acesso-seguro-e-sob-demanda-as-vms/)
-  - [Explorando o Azure Resource Graph: consultas úteis para governança, segurança e inventário](https://www.azurebrasil.cloud/explorando-o-azure-resource-graph-consultas-uteis-para-governanca-seguranca-e-inventario/)
-  - [Implementando DNS privado no Azure: boas práticas com Private DNS Zones e integração com Private Endpoints](https://www.azurebrasil.cloud/implementando-dns-privado-no-azure-boas-praticas-com-private-dns-zones-e-integracao-com-private-endpoints/) 
-  - [Gerenciando imagens de máquinas com Azure Compute Gallery: consistência e automação de VMs](https://www.azurebrasil.cloud/gerenciando-imagens-de-maquinas-com-azure-compute-gallery-consistencia-e-automacao-de-vms/)
-  - [Protegendo dados em repouso e em trânsito no Azure: criptografia de ponta a ponta com Key Vault, TLS e BYOK](https://www.azurebrasil.cloud/protegendo-dados-em-repouso-e-em-transito-no-azure-criptografia-de-ponta-a-ponta-com-key-vault-tls-e-byok/)
-  - [Segurança de redes no Azure: segmentação, inspeção de tráfego e microsegmentação com Azure Firewall, NSG e Private Endpoints](https://www.azurebrasil.cloud/seguranca-de-redes-no-azure-segmentacao-inspecao-de-trafego-e-microsegmentacao-com-azure-firewall-nsg-e-private-endpoints/)
-  - [Gerenciando ambientes multi-região no Azure: alta disponibilidade, replicação e failover inteligente](https://www.azurebrasil.cloud/gerenciando-ambientes-multi-regiao-no-azure-alta-disponibilidade-replicacao-e-failover-inteligente/)
-  - [Implementando GitOps com Flux no Azure Kubernetes Service (AKS)](https://www.azurebrasil.cloud/implementando-gitops-com-flux-no-azure-kubernetes-service-aks/)
-  - [Gerenciando identidade e acesso no Azure: RBAC avançado, Entra ID e PIM na prática](https://www.azurebrasil.cloud/gerenciando-identidade-e-acesso-no-azure-rbac-avancado-entra-id-e-pim-na-pratica/)
-  - [Azure Landing Zones com Terraform: como padronizar e automatizar ambientes multi-cloud-ready](https://www.azurebrasil.cloud/azure-landing-zones-com-terraform-como-padronizar-e-automatizar-ambientes-multi-cloud-ready/)
-  - [Hardening de máquinas virtuais no Azure: práticas avançadas de segurança usando Defender for Cloud e Azure Policy](https://www.azurebrasil.cloud/hardening-de-maquinas-virtuais-no-azure-praticas-avancadas-de-seguranca-usando-defender-for-cloud-e-azure-policy/)
-  - [Azure Landing Zones: Implementando fundações seguras e escaláveis para múltiplos ambientes](https://www.azurebrasil.cloud/azure-landing-zones-implementando-fundacoes-seguras-e-escalaveis-para-multiplos-ambientes/)
-  - [Compliance no Azure: usando Azure Policy para governança avançada](https://www.azurebrasil.cloud/compliance-no-azure-usando-azure-policy-para-governanca-avancada/)
-  - [Gerenciamento de custos no Azure: otimizando workloads e evitando surpresas](https://www.azurebrasil.cloud/gerenciamento-de-custos-no-azure-otimizando-workloads-e-evitando-surpresas/)
-  - [Azure Backup e Site Recovery: estratégias avançadas para recuperação de desastres](https://www.azurebrasil.cloud/azure-backup-e-site-recovery-estrategias-avancadas-para-recuperacao-de-desastres/)  
-  - [Azure Bastion: acesso seguro a máquinas virtuais no Azure](https://www.azurebrasil.cloud/azure-bastion-acesso-seguro-a-maquinas-virtuais-no-azure/)
-  - [Implementando observabilidade em contêineres com Azure Monitor e AKS](https://www.azurebrasil.cloud/implementando-observabilidade-em-conteineres-com-azure-monitor-e-aks/)
-  - [Monitoramento proativo de redes no Azure com Network Watcher](https://www.azurebrasil.cloud/monitoramento-proativo-de-redes-no-azure-com-network-watcher/)
-  - [Azure Load Balancer vs. Application Gateway: Qual escolher?](https://www.azurebrasil.cloud/blog/azure-load-balancer-vs-application-gateway-qual-escolher/)
-  - [Azure Arc: Gerenciando recursos Multi-Cloud e On-Premises](https://www.azurebrasil.cloud/blog/azure-arc-gerenciando-recursos-multi-cloud-e-on-premises/)
-  - [Segurança proativa no Azure: Implementando zero trust de forma eficaz](https://www.azurebrasil.cloud/blog/seguranca-proativa-no-azure-implementando-zero-trust-de-forma-eficaz/)
-  - [Azure Workbooks: Personalização e Visualização Avançada de Dados no Azure](https://www.azurebrasil.cloud/blog/azure-workbooks-personalizacao-e-visualizacao-avancada-de-dados-no-azure/)
-  - [Tendências e o futuro da infraestrutura no Azure](https://www.azurebrasil.cloud/blog/tendencias-e-o-futuro-da-infraestrutura-no-azure/)
-  - [Infraestrutura como Código no Azure: Ferramentas, Estratégias e Melhores Práticas](https://www.azurebrasil.cloud/blog/infraestrutura-como-codigo-no-azure-ferramentas-estrategias-e-melhores-praticas/)
-  - [Estratégias de Migração para o Azure: Um Guia Completo](https://www.azurebrasil.cloud/blog/estrategias-de-migracao-para-o-azure-um-guia-completo/)
-  - [Escalabilidade e Otimização de Desempenho no Azure](https://www.azurebrasil.cloud/blog/escalabilidade-e-otimizacao-de-desempenho-no-azure/)
-  - [Monitoramento e Observabilidade no Azure](https://www.azurebrasil.cloud/blog/monitoramento-e-observabilidade-no-azure)  
-  - [Alta Disponibilidade e Recuperação de Desastres no Azure: Um Guia Completo](https://www.azurebrasil.cloud/blog/alta-disponibilidade-e-recuperacao-de-desastres-no-azure-um-guia-completo/)
-  - [Implementando Governança no Azure](https://www.azurebrasil.cloud/blog/implementando-governanca-no-azure/)
-  - [Conceitos Essenciais de Redes no Azure](https://www.azurebrasil.cloud/blog/conteitos-essenciais-de-redes-no-azure/)
-  - [Tarefas essenciais para criar uma base de segurança no Azure](https://www.azurebrasil.cloud/blog/tarefas-essenciais-para-criar-uma-base-de-seguranca-no-azure/)
-  - [Melhores Práticas para Gerenciamento de Recursos no Azure](https://www.azurebrasil.cloud/blog/melhores-praticas-para-gerenciamento-de-recursos-no-azure/)
+Articles published on the official [Startups at Microsoft Tech Community blog](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog):
 
-- Learning Guides I created:
-  - [AKS Learning Path](https://aks-learning.github.io/learningpath/)
-  - Azure Fundamentals
-    - [Portuguese Version](https://fundamentosdoazure.com.br/)
-    - [English Version](https://azure-fundamentals.com/)
-  - AWS Fundamentals
-    - [Portuguese Version](http://fundamentosaws.com.br/)
-    - [English Version](https://awscloudpractitionerguide.com/)   
+### AI Infrastructure & Operations
+- [Production-grade API Gateway patterns for Microsoft Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/production-grade-api-gateway-patterns-for-microsoft-foundry/4490494)
+- [When and why startups add a Gateway in front of Azure AI Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/when-and-why-startups-add-a-gateway-in-front-of-azure-ai-foundry/4489490)
+- [Monitoring Azure OpenAI without switching from your existing observability platform](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/monitoring-azure-openai-without-switching-from-your-existing-observability-platf/4458898)
+- [Effective Monitoring of Azure PostgreSQL for Azure OpenAI Workloads](https://techcommunity.microsoft.com/t5/startups-at-microsoft/effective-monitoring-of-azure-postgresql-for-azure-openai/ba-p/4286550)
 
-- Contributions I made to the Red Hat Cloud Experts Blog and to Microsoft Official ARO Docs
-  - [Prerequisites Checklist to Deploy ARO Cluster](https://cloud.redhat.com/experts/aro/prereq-list/)
-  - [Deploying Advanced Cluster Management and OpenShift Data Foundation for ARO Disaster Recovery](https://cloud.redhat.com/experts/aro/acm-odf-aro/)
-  - [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
-  - [Private ARO Cluster with access via JumpHost](https://cloud.redhat.com/experts/aro/private-cluster/)
-  - [Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
-  - [ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
-  - [Use GPU workloads with Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/azure/openshift/howto-gpu-workloads)
-  - [Configure ARO to use Azure AD](https://mobb.ninja/docs/idp/azuread-aro/)
-  - [Azure Front Door with ARO ( Azure Red Hat OpenShift )](https://mobb.ninja/docs/aro/frontdoor/)
-  - [Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
-  - [Configure ARO to use Microsoft Entra ID Group Claims](https://cloud.redhat.com/experts/idp/group-claims/aro/)
-    
-- Microsoft Learn Modules I wrote:
-  - [Introduction to Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/)
-  - [Intro to Azure DNS Private Resolver](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/)
-  - [Intro to Azure Blueprints](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
-  - [Intro to Azure Policy](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/)
-  - [Intro to Azure Service Health](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/)
-  - [Introduction to Azure Advisor](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/)
-    
-- Article I wrote to Microsoft Architecture Center
-  - [Implement an open-source jump server solution on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
+### Azure Kubernetes Service (AKS)
+- [AKS networking made easy: Your comprehensive guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/aks-networking-made-easy-your-comprehensive-guide/4398603)
+- [Embracing AKS built-in upgrade features and exploring custom solutions](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/embracing-aks-built-in-upgrade-features-and-exploring-custom-solutions/4398230)
+- [From zero to hero: Mastering storage in Azure Kubernetes Service (AKS)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-mastering-storage-in-azure-kubernetes-service-aks/4397734)
+- [From zero to hero with identity and access control in Azure Kubernetes Service](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-zero-to-hero-with-identity-and-access-control-in-azure-kubernetes-service/4386350)
+- [AKS Standard vs. AKS Automatic: A Comprehensive Comparison](https://techcommunity.microsoft.com/t5/startups-at-microsoft/aks-standard-vs-aks-automatic-a-comprehensive-comparison/ba-p/4264516)
+- [Understanding Identity Concepts in AKS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/understanding-identity-concepts-in-aks/ba-p/4256435)
+- [Choosing the Right Networking Model for AKS: Azure CNI vs. Kubenet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/choosing-the-right-networking-model-for-azure-kubernetes-service-aks-azure-cni-v/4351872)
+- [Azure Kubernetes Service – A friendly guide for Startups](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-kubernetes-service-%E2%80%93-a-friendly-guide-for-startups/4374796)
+- [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
 
-- Articles I wrote to Microsoft FastTrack for Azure Blog:
-  - [Deploying Apache Guacamole on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploying-apache-guacamole-on-azure/ba-p/3269613)
-  - [Deploy a highly available and scalable Wordpress on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-a-highly-available-and-scalable-wordpress-on-azure/ba-p/2507554)
-  - [Implementing your own ELK Stack on Azure through CLI](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/implementing-your-own-elk-stack-on-azure-through-cli/ba-p/2282939)
-  - [How to create a VPN between Azure and AWS using only managed solutions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-a-vpn-between-azure-and-aws-using-only-managed/ba-p/2281900)
-  
-- Other stuff I've created 
-  - [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
-  - [Deploy a highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
-  - [How to setup Linux VMs with Apache and PHP using cloud-init and Virtual Machine Scale Sets](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
-  - [How to setup a Linux VM with Apache and PHP using cloud-init on Azure behind Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
-  - [How to setup a Linux VM with Apache and PHP using cloud-init on Azure](https://github.com/ricmmartins/linuxvm-cloud-init/)
-  - [Implementing your own ELK Stack on Azure through CLI](https://github.com/ricmmartins/elk-stack-azure)
-  - [Configuring a GlusterFS using Azure Shared Disks on Ubuntu Linux](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
-  - [Azure Governance made simple](https://github.com/ricmmartins/azure-governance-made-simple)
-  - [Azure Governance made simple - Brazilian Portuguese version](https://github.com/ricmmartins/guia-pratico-governanca-azure)
-  - [How to create a VPN between Azure and AWS using only managed solutions](https://github.com/ricmmartins/azure-vpn-aws)
-  - [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
-  - [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
-  - [How to use the Azure Automation to run scripts inside a Linux Virtual Machine](https://github.com/ricmmartins/azure-automation)
-  - [Being alerted about creation or updates of Virtual Machines in your Azure Subscription](https://github.com/ricmmartins/azure-alerts)
-  - [How to build your skills in Azure (PT-BR)](https://www.linkedin.com/pulse/como-construir-seus-skills-em-azure-ricardo-martins/)
-  - [Microsoft Azure: Where to start? (PT-BR)](https://www.linkedin.com/pulse/microsoft-azure-por-onde-come%C3%A7ar-ricardo-martins-/)
-  - [Everything fails, all the time](https://www.linkedin.com/pulse/everything-fails-all-time-ricardo-martins/)
-  - [How to create a Linux VM on Azure using CLI](https://github.com/ricmmartins/training/tree/master/demo/az-cli)
-  - [How to create a QnA Bot on Azure](https://github.com/ricmmartins/training/tree/master/demo/qna)
-  - [How to deploy Wordpress Stack from Azure CLI](https://github.com/ricmmartins/WordpressStack-AzureCLI)
-  - [Implementing Apache Guacamole on Azure](https://ricardomartins.com.br/implementando-o-apache-guacamole-no-azure/)
-  - [Collecting Azure information with Grafana](https://ricardomartins.com.br/coletando-informacoes-do-azure-com-grafana/)
-  - [How to implement DSpace in Azure Webapp for Containers](https://ricardomartins.com.br/como-implementar-o-dspace-em-um-webapp-container-no-azure/)
-  - [Configuring NGINX as Load Balancer](https://ricardomartins.com.br/nginx-configurando-como-load-balancer/)
-  - [Load Balancing with HAProxy](https://www.ricardomartins.com.br/balanceamento-de-carga-com-haproxy/)
-  - [Installing Wordpress with Nginx, PHP-FPM and Varnish on CentOS](https://ricardomartins.com.br/instalando-wordpress-nginx-php-fpm-varnish-no-centos/)
-  
-✔️ You can see a ton of other writings on my personal blog at [https://ricardomartins.com.br/](https://ricardomartins.com.br/)
+### Observability & Monitoring
+- [Azure Monitor 101: The missing guide to understanding monitoring on Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-monitor-101-the-missing-guide-to-understanding-monitoring-on-azure/4462799)
+- [Advanced Alerting Strategies for Azure Monitoring](https://techcommunity.microsoft.com/t5/startups-at-microsoft/advanced-alerting-strategies-for-azure-monitoring/ba-p/4268698)
+- [Azure Monitor & MELT: A Comprehensive Approach to Cloud Observability](https://techcommunity.microsoft.com/t5/startups-at-microsoft/azure-monitor-amp-melt-a-comprehensive-approach-to-cloud/ba-p/4251166)
+- [Azure Workbooks: Advanced Customization and Data Visualization in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-workbooks-advanced-customization-and-data-visualization-in-azure/4369588)
+- [The importance of setting up service and resource health monitoring in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-importance-of-setting-up-service-and-resource-health-monitoring-in-azure/4372478)
+- [How Azure Advisor can help you to optimize cloud resources](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/how-azure-advisor-can-help-you-to-optimize-cloud-resources/4372082)
+- [A practical guide to Azure VM SKU capacity monitoring](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/a-practical-guide-to-azure-vm-sku-capacity-monitoring/4415773)
+- [Azure Quota Alerts (Preview): Still overlooked, but incredibly useful](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-quota-alerts-preview-still-overlooked-but-incredibly-useful/4447140)
 
-## 📝 Translations
+### Governance & Security
+- [Azure has three permission systems, and you're probably confusing them](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-has-three-permission-systems-and-youre-probably-confusing-them/4471854)
+- [Role Structures, Anti-Patterns, and the 10 Governance Principles](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/role-structures-anti-patterns-and-the-10-governance-principles/4510070)
+- [Marketplace governance and the cross-plane bridge](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/marketplace-governance-and-the-cross-plane-bridge/4510067)
+- [Introducing the Startup-Scale Landing Zone: Get Azure right from day one](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/introducing-the-startup-scale-landing-zone-get-azure-right-from-day-one/4501566)
+- [From Zero to Hero with Azure Landing Zones](https://techcommunity.microsoft.com/t5/startups-at-microsoft/from-zero-to-hero-with-azure-landing-zones/ba-p/4229195)
+- [Building a Secure and Scalable Foundation for Your Startup on Azure](https://techcommunity.microsoft.com/t5/startups-at-microsoft/building-a-secure-and-scalable-foundation-for-your-startup-on/ba-p/4146456)
+- [Demystifying Microsoft Entra ID, Tenants and Azure Subscriptions](https://techcommunity.microsoft.com/t5/startups-at-microsoft/demystifying-microsoft-entra-id-tenants-and-azure-subscriptions/ba-p/4155261)
 
-* [Kubernetes Documentation - Conectando um Frontend a um Backend usando Serviços](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/connecting-frontend-backend/)
-* [Kubernetes Documentation - Acessando serviços em execução em clusters](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/access-cluster-services/)
-* [Kubernetes Documentation - Configurar um provedor de credenciais de imagem para o kubelet](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/kubelet-credential-provider/)
-* [Kubernetes Documentation - Padrão Operador](https://kubernetes.io/pt-br/docs/concepts/extend-kubernetes/operator/)
-* [Kubernetes Documentation - Use o redirecionamento de porta para acessar aplicativos em um cluster](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
-* [Kubernetes Documentation - Limitar o consumo de armazenamento](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/limit-storage-consumption/)
-* [Kubernetes Documentation - Glossário](https://kubernetes.io/pt-br/docs/reference/glossary/?workload=true#term-app-container)
+### Networking & Infrastructure
+- [Azure routing preference: A hidden lever for performance vs. cost trade-offs](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-routing-preference-a-hidden-lever-for-performance-vs-cost-trade-offs/4451425)
+- [Azure capacity planning: Using quotas, reservations, vmss instance mix, and compute fleet](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-capacity-planning-using-quotas-reservations-vmss-instance-mix-and-compute-/4464893)
+- [Azure Support Slack Bot on Azure Container Apps: Production-ready guide](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-support-slack-bot-on-azure-container-apps-production-ready-guide/4436423)
+- [Dynamic Multi-Cloud Networking: Configuring a BGP-Enabled VPN Between Azure and AWS](https://techcommunity.microsoft.com/t5/startups-at-microsoft/dynamic-multi-cloud-networking-configuring-a-bgp-enabled-vpn/ba-p/4281443)
+- [How to easily set up a VPN between Azure and AWS using managed services (Updated 2024)](https://techcommunity.microsoft.com/t5/startups-at-microsoft/how-to-easily-set-up-a-vpn-between-azure-and-aws-using-managed/ba-p/4278966)
+- [Key Architectural Differences Between AWS and Azure Explained](https://techcommunity.microsoft.com/t5/startups-at-microsoft/key-architectural-differences-between-aws-and-azure-explained/ba-p/4244702)
 
+### Cost Optimization & Getting Started
+- [Slash Your Azure Bill: Top Tips for Startups](https://techcommunity.microsoft.com/t5/startups-at-microsoft/slash-your-azure-bill-top-tips-for-startups/ba-p/4141839)
+- [Building a cost-effective & resilient Azure Infrastructure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/building-a-cost-effective--resilient-azure-infrastructure/4376152)
+- [How to automatically shut down idle VMs in Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/how-to-automatically-shut-down-idle-vms-in-azure/4376055)
+- [Essential Steps to Kickstart Your Azure Journey](https://techcommunity.microsoft.com/t5/startups-at-microsoft/essential-steps-to-kickstart-your-azure-journey/ba-p/4227351)
+- [The Digital Native's Checklist for Azure: Stuff I wish every startup knew](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-digital-natives-checklist-for-azure-stuff-i-wish-every-startup-knew/4406669)
+- [Getting started with Azure Developer CLI (azd)](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/getting-started-with-azure-developer-cli-azd/4392010)
 
-## 📗 Presentations
+---
 
-* [Creation of VM with Wordpress stack using Visual Studio](https://ricardomartins9888.blob.core.windows.net/arquivos/CriandoumastackWordpressusandoVisualStudioAzure.pptx)
-* [IaC & DevOps no Azure - Automating Deployments](https://ricardomartins9888.blob.core.windows.net/arquivos/IaC&DevOpsNoAzure-AutomatizandoDeployments.pptx)
-* [Docker Containers on Azure Web App](https://ricardomartins9888.blob.core.windows.net/arquivos/ContainersDockernoAzureWebApp.pptx)
-* [Creation of Linux VM with Managed Disk](https://ricardomartins9888.blob.core.windows.net/arquivos/CriandoVMLinuxcomDiscoGerenciado.pptx)
-* [Azure Functions](https://ricardomartins9888.blob.core.windows.net/arquivos/AzureFunctions.pptx)
-* [Azure @ Rio Cloud Meetup](https://www.slideshare.net/rmmartins/azure-rio-cloud-meetp)
-* [Reference Guide for Microsoft Exam 70-533](https://www.slideshare.net/rmmartins/guia-de-referncia-para-o-exame-de-certificao-70533)
-* [Nginx, Apache and Varnish](https://www.slideshare.net/rmmartins/nginx-apache-e-varnish)
-* [Cloud & AWS: From theory to practice](https://www.slideshare.net/rmmartins/cloud-aws-da-teoria-prtica)
-* [Cloud Computing & Software Livre with CloudStack - Flisol 2015](https://www.slideshare.net/rmmartins/flisol-2015)
-* [Presenting the OpsWorks - Bemobi](https://www.slideshare.net/rmmartins/apresentando-o-opsworks-bemobi)
-* [Overview AWS - Bemobi](https://www.slideshare.net/rmmartins/bemobi-amazon-aws)
-* [AWS for Developers - Passei Direto](https://www.slideshare.net/rmmartins/aws-for-developers)
-* [Cloud computing & Cloudstack - VI FSLDC 2015](https://www.slideshare.net/rmmartins/cloud-computing-cloudstack-como-ter-sua-nuvem-sem-tempestades)
-* [Cloud Computing - Senac RJ 2014](https://www.slideshare.net/rmmartins/computao-em-nuvem-38583126)
-* [Cloud Computing - Flisol 2014](https://www.slideshare.net/rmmartins/computacao-em-nuvem-34029146)
+## ✍️ All Things Azure Blog
 
-## 📋 Misc
-* [Guia de Estudo para o exame AZ-900](https://aka.ms/guia-az900)
-* [Azure for IT Pro & CloudOps](https://github.com/ricmmartins/azure-for-itpro)
-* [Azure Readiness](http://aka.ms/azreadiness)
-* [Azure Certification Guide](http://aka.ms/azcertification)
-* [Azure Learning](http://aka.ms/capacitacaoazure)
+- [Build your own Microsoft Docs AI assistant with Azure Container Apps and Azure OpenAI](https://devblogs.microsoft.com/all-things-azure/build-your-own-microsoft-docs-ai-assistant-with-azure-container-apps-and-azure-openai/)
+
+---
+
+## ✍️ FastTrack for Azure Blog
+
+- [Deploying Apache Guacamole on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploying-apache-guacamole-on-azure/ba-p/3269613)
+- [Deploy a highly available and scalable Wordpress on Azure](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-a-highly-available-and-scalable-wordpress-on-azure/ba-p/2507554)
+- [Implementing your own ELK Stack on Azure through CLI](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/implementing-your-own-elk-stack-on-azure-through-cli/ba-p/2282939)
+- [How to create a VPN between Azure and AWS using only managed solutions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/how-to-create-a-vpn-between-azure-and-aws-using-only-managed/ba-p/2281900)
+
+---
+
+## 📚 Microsoft Learn Modules
+
+Official training modules authored for Microsoft Learn:
+
+| Module | Link |
+|--------|------|
+| Introduction to Azure Red Hat OpenShift | [learn.microsoft.com](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-red-hat-openshift/) |
+| Introduction to Azure DNS Private Resolver | [learn.microsoft.com](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-dns-private-resolver/) |
+| Introduction to Azure Blueprints | [learn.microsoft.com](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/) |
+| Introduction to Azure Policy | [learn.microsoft.com](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-policy/) |
+| Introduction to Azure Service Health | [learn.microsoft.com](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-service-health/) |
+| Introduction to Azure Advisor | [learn.microsoft.com](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-advisor/) |
+
+---
+
+## 📚 Microsoft Learn Collections
+
+| Collection | Link |
+|------------|------|
+| Azure for AWS Professionals | [aka.ms/Azure4AWSPros](https://aka.ms/Azure4AWSPros) |
+| Exam AZ-305 (Azure Solutions Architect Expert) Training | [aka.ms/az-305-training](https://aka.ms/az-305-training) |
+| Exam AZ-400 (DevOps Solutions) Training | [aka.ms/az-400-training](https://aka.ms/az-400-training) |
+
+---
+
+## 📚 Microsoft Architecture Center
+
+- [Implement an open-source jump server solution on Azure](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/apache-guacamole)
+
+---
+
+## 📚 Learning Guides
+
+| Guide | Language | Link |
+|-------|----------|------|
+| AKS Learning Path | English | [aks-learning.github.io](https://aks-learning.github.io/learningpath/) |
+| Azure Fundamentals Study Guide | English | [azure-fundamentals.com](https://azure-fundamentals.com/) |
+| Azure Fundamentals Study Guide | Portuguese | [fundamentosdoazure.com.br](https://fundamentosdoazure.com.br/) |
+| AWS Cloud Practitioner Study Guide | English | [awscloudpractitionerguide.com](https://awscloudpractitionerguide.com/) |
+| AWS Fundamentals Study Guide | Portuguese | [fundamentosaws.com.br](http://fundamentosaws.com.br/) |
+
+---
+
+## 🔴 Red Hat & OpenShift Contributions
+
+Contributions to the Red Hat Cloud Experts Blog and Microsoft official ARO documentation:
+
+- [Prerequisites Checklist to Deploy ARO Cluster](https://cloud.redhat.com/experts/aro/prereq-list/)
+- [Deploying ACM and ODF for ARO Disaster Recovery](https://cloud.redhat.com/experts/aro/acm-odf-aro/)
+- [Considerations when using AAD as IDP](https://mobb.ninja/docs/idp/considerations-aad-ipd/)
+- [Private ARO Cluster with access via JumpHost](https://cloud.redhat.com/experts/aro/private-cluster/)
+- [Create an Azure Red Hat OpenShift 4 cluster](https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster) (Official Microsoft Docs)
+- [ARO with Nvidia GPU Workloads](https://mobb.ninja/docs/aro/gpu/)
+- [Use GPU workloads with Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/azure/openshift/howto-gpu-workloads) (Official Microsoft Docs)
+- [Configure ARO to use Azure AD](https://mobb.ninja/docs/idp/azuread-aro/)
+- [Azure Front Door with ARO](https://mobb.ninja/docs/aro/frontdoor/)
+- [Setup a VPN Connection into an ARO Cluster with OpenVPN](https://mobb.ninja/docs/aro/vpn/)
+- [Configure ARO to use Microsoft Entra ID Group Claims](https://cloud.redhat.com/experts/idp/group-claims/aro/)
+
+---
+
+## 🇧🇷 Azure Brasil Blog (Portuguese)
+
+40+ articles published on [azurebrasil.cloud](https://www.azurebrasil.cloud/) covering AI infrastructure, AKS, SRE, networking, governance, security, observability, and cost optimization for the Brazilian cloud community.
+
+<details>
+<summary>View all articles</summary>
+
+- [Resposta a incidentes no Azure: automação de alertas, runbooks e integração com ferramentas de on-call](https://www.azurebrasil.cloud/blog/resposta-a-incidentes-no-azure-automacao-de-alertas-runbooks-e-integracao-com-ferramentas-de-on-call/)
+- [SRE no Azure: implementando SLIs, SLOs e Error Budgets com Azure Monitor](https://www.azurebrasil.cloud/blog/sre-no-azure-implementando-slis-slos-e-error-budgets-com-azure-monitor/)
+- [Engenharia de Caos no Azure: validando resiliência em produção com Azure Chaos Studio](https://www.azurebrasil.cloud/blog/engenharia-de-caos-no-azure-validando-resiliencia-em-producao-com-azure-chaos-studio/)
+- [Multi-cluster networking avançado para AKS](https://www.azurebrasil.cloud/blog/multi-cluster-networking-avancado-para-aks/)
+- [Inferência global com Azure Front Door, AI Gateway e Private Link](https://www.azurebrasil.cloud/blog/arquiteturas-de-rede-no-azure-design-escalavel-e-seguro-com-hub-spoke-virtual-wan-e-private-endpoints-2/)
+- [FinOps aplicado a workloads de IA no Azure](https://www.azurebrasil.cloud/blog/finops-aplicado-a-workloads-de-ia-no-azure/)
+- [Observabilidade avançada para GPU e inferência no Azure](https://www.azurebrasil.cloud/blog/observabilidade-avancada-para-gpu-e-inferencia-no-azure/)
+- [AKS multi-cluster para IA: Arquitetura, escalabilidade e resiliência em produção](https://www.azurebrasil.cloud/blog/aks-multi-cluster-para-ia-arquitetura-escalabilidade-e-resiliencia-em-producao/)
+- [Infraestrutura para workloads de IA no Azure: GPUs, escalabilidade e resiliência em produção](https://www.azurebrasil.cloud/blog/infraestrutura-para-workloads-de-ia-no-azure-gpus-escalabilidade-e-resiliencia-em-producao/)
+- [Azure Quota API e Capacity Management](https://www.azurebrasil.cloud/blog/azure-quota-api-e-capacity-management-como-evitar-bloqueios-de-escala-no-azure/)
+- [ExpressRoute Global Reach no Azure](https://www.azurebrasil.cloud/blog/expressroute-global-reach-no-azure-conectividade-privada-e-multi-regiao-com-o-backbone-da-microsoft/)
+- [Como otimizar custo e disponibilidade com múltiplos SKUs e zonas](https://www.azurebrasil.cloud/blog/como-otimizar-custo-e-disponibilidade-com-multiplos-skus-e-zonas/)
+- [Como expor serviços internos de forma segura e sem IP público](https://www.azurebrasil.cloud/blog/como-expor-servicos-internos-de-forma-segura-e-sem-ip-publico/)
+- [Azure Compute: escolhendo o SKU ideal de VM para seu workload](https://www.azurebrasil.cloud/blog/azure-compute-escolhendo-o-sku-ideal-de-vm-para-seu-workload/)
+- [Estratégias de Armazenamento no Azure](https://www.azurebrasil.cloud/blog/estrategias-de-armazenamento-no-azure-desempenho-redundancia-e-custo/)
+- [Arquiteturas de Rede no Azure: Hub-Spoke, Virtual WAN e Private Endpoints](https://www.azurebrasil.cloud/blog/arquiteturas-de-rede-no-azure-design-escalavel-e-seguro-com-hub-spoke-virtual-wan-e-private-endpoints/)
+- [Checklist completo para projetos prontos para produção no Azure](https://www.azurebrasil.cloud/blog/checklist-completo-para-projetos-prontos-para-producao-no-azure/)
+- [Infraestrutura como Código no Azure com Pulumi](https://www.azurebrasil.cloud/blog/infraestrutura-como-codigo-no-azure-com-pulumi-deploy-de-vms-com-nginx-e-mysql/)
+- [Gerenciando o ciclo de vida de secrets no Azure Key Vault](https://www.azurebrasil.cloud/blog/gerenciando-o-ciclo-de-vida-de-secrets-no-azure-key-vault-rotacao-expiracao-e-automacao/)
+- [Avaliando riscos com Microsoft Defender for Cloud](https://www.azurebrasil.cloud/blog/avaliando-riscos-com-microsoft-defender-for-cloud-como-priorizar-recomendacoes-de-seguranca-no-azure/)
+- [Monitoramento de custos no Azure: Budgets, Cost Alerts e Power BI](https://www.azurebrasil.cloud/blog/monitoramento-de-custos-no-azure-como-usar-budgets-cost-alerts-e-integracao-com-power-bi/)
+- [Controle de acesso Just-in-Time (JIT) com Azure Bastion](https://www.azurebrasil.cloud/blog/controle-de-acesso-just-in-time-jit-com-azure-bastion-e-azure-ad-acesso-seguro-e-sob-demanda-as-vms/)
+- [Explorando o Azure Resource Graph](https://www.azurebrasil.cloud/explorando-o-azure-resource-graph-consultas-uteis-para-governanca-seguranca-e-inventario/)
+- [DNS privado no Azure com Private DNS Zones e Private Endpoints](https://www.azurebrasil.cloud/implementando-dns-privado-no-azure-boas-praticas-com-private-dns-zones-e-integracao-com-private-endpoints/)
+- [Gerenciando imagens de VMs com Azure Compute Gallery](https://www.azurebrasil.cloud/gerenciando-imagens-de-maquinas-com-azure-compute-gallery-consistencia-e-automacao-de-vms/)
+- [Criptografia de ponta a ponta com Key Vault, TLS e BYOK](https://www.azurebrasil.cloud/protegendo-dados-em-repouso-e-em-transito-no-azure-criptografia-de-ponta-a-ponta-com-key-vault-tls-e-byok/)
+- [Segurança de redes no Azure: Azure Firewall, NSG e Private Endpoints](https://www.azurebrasil.cloud/seguranca-de-redes-no-azure-segmentacao-inspecao-de-trafego-e-microsegmentacao-com-azure-firewall-nsg-e-private-endpoints/)
+- [Ambientes multi-região no Azure: HA, replicação e failover](https://www.azurebrasil.cloud/gerenciando-ambientes-multi-regiao-no-azure-alta-disponibilidade-replicacao-e-failover-inteligente/)
+- [GitOps com Flux no AKS](https://www.azurebrasil.cloud/implementando-gitops-com-flux-no-azure-kubernetes-service-aks/)
+- [RBAC avançado, Entra ID e PIM na prática](https://www.azurebrasil.cloud/gerenciando-identidade-e-acesso-no-azure-rbac-avancado-entra-id-e-pim-na-pratica/)
+- [Azure Landing Zones com Terraform](https://www.azurebrasil.cloud/azure-landing-zones-com-terraform-como-padronizar-e-automatizar-ambientes-multi-cloud-ready/)
+- [Hardening de VMs com Defender for Cloud e Azure Policy](https://www.azurebrasil.cloud/hardening-de-maquinas-virtuais-no-azure-praticas-avancadas-de-seguranca-usando-defender-for-cloud-e-azure-policy/)
+- [Azure Landing Zones: fundações seguras e escaláveis](https://www.azurebrasil.cloud/azure-landing-zones-implementando-fundacoes-seguras-e-escalaveis-para-multiplos-ambientes/)
+- [Compliance no Azure com Azure Policy](https://www.azurebrasil.cloud/compliance-no-azure-usando-azure-policy-para-governanca-avancada/)
+- [Gerenciamento de custos no Azure](https://www.azurebrasil.cloud/gerenciamento-de-custos-no-azure-otimizando-workloads-e-evitando-surpresas/)
+- [Azure Backup e Site Recovery para DR](https://www.azurebrasil.cloud/azure-backup-e-site-recovery-estrategias-avancadas-para-recuperacao-de-desastres/)
+- [Azure Bastion: acesso seguro a VMs](https://www.azurebrasil.cloud/azure-bastion-acesso-seguro-a-maquinas-virtuais-no-azure/)
+- [Observabilidade em contêineres com Azure Monitor e AKS](https://www.azurebrasil.cloud/implementando-observabilidade-em-conteineres-com-azure-monitor-e-aks/)
+- [Monitoramento de redes com Network Watcher](https://www.azurebrasil.cloud/monitoramento-proativo-de-redes-no-azure-com-network-watcher/)
+- [Azure Load Balancer vs. Application Gateway](https://www.azurebrasil.cloud/blog/azure-load-balancer-vs-application-gateway-qual-escolher/)
+- [Azure Arc: recursos Multi-Cloud e On-Premises](https://www.azurebrasil.cloud/blog/azure-arc-gerenciando-recursos-multi-cloud-e-on-premises/)
+- [Zero Trust no Azure](https://www.azurebrasil.cloud/blog/seguranca-proativa-no-azure-implementando-zero-trust-de-forma-eficaz/)
+- [Azure Workbooks: visualização avançada de dados](https://www.azurebrasil.cloud/blog/azure-workbooks-personalizacao-e-visualizacao-avancada-de-dados-no-azure/)
+- [O futuro da infraestrutura no Azure](https://www.azurebrasil.cloud/blog/tendencias-e-o-futuro-da-infraestrutura-no-azure/)
+- [IaC no Azure: ferramentas, estratégias e melhores práticas](https://www.azurebrasil.cloud/blog/infraestrutura-como-codigo-no-azure-ferramentas-estrategias-e-melhores-praticas/)
+- [Estratégias de Migração para o Azure](https://www.azurebrasil.cloud/blog/estrategias-de-migracao-para-o-azure-um-guia-completo/)
+- [Escalabilidade e Otimização de Desempenho no Azure](https://www.azurebrasil.cloud/blog/escalabilidade-e-otimizacao-de-desempenho-no-azure/)
+- [Monitoramento e Observabilidade no Azure](https://www.azurebrasil.cloud/blog/monitoramento-e-observabilidade-no-azure)
+- [Alta Disponibilidade e Recuperação de Desastres no Azure](https://www.azurebrasil.cloud/blog/alta-disponibilidade-e-recuperacao-de-desastres-no-azure-um-guia-completo/)
+- [Implementando Governança no Azure](https://www.azurebrasil.cloud/blog/implementando-governanca-no-azure/)
+- [Conceitos Essenciais de Redes no Azure](https://www.azurebrasil.cloud/blog/conteitos-essenciais-de-redes-no-azure/)
+- [Segurança no Azure: tarefas essenciais](https://www.azurebrasil.cloud/blog/tarefas-essenciais-para-criar-uma-base-de-seguranca-no-azure/)
+- [Gerenciamento de Recursos no Azure](https://www.azurebrasil.cloud/blog/melhores-praticas-para-gerenciamento-de-recursos-no-azure/)
+
+</details>
+
+---
+
+## 🌐 Kubernetes Docs Translations (PT-BR)
+
+Translations contributed to the official Kubernetes documentation:
+
+- [Conectando um Frontend a um Backend usando Serviços](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/connecting-frontend-backend/)
+- [Acessando serviços em execução em clusters](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/access-cluster-services/)
+- [Configurar um provedor de credenciais de imagem para o kubelet](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/kubelet-credential-provider/)
+- [Padrão Operador](https://kubernetes.io/pt-br/docs/concepts/extend-kubernetes/operator/)
+- [Use o redirecionamento de porta para acessar aplicativos em um cluster](https://kubernetes.io/pt-br/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
+- [Limitar o consumo de armazenamento](https://kubernetes.io/pt-br/docs/tasks/administer-cluster/limit-storage-consumption/)
+- [Glossário](https://kubernetes.io/pt-br/docs/reference/glossary/?workload=true#term-app-container)
+
+---
+
+## 🛠️ GitHub Repos & Tools
+
+- [Deploying Apache Guacamole on Azure](https://github.com/ricmmartins/apache-guacamole-azure)
+- [Highly available and scalable Wordpress on Azure](https://github.com/ricmmartins/highly-available-scalable-wordpress-azure/)
+- [Linux VMs with cloud-init and VMSS](https://github.com/ricmmartins/linuxvm-cloud-init-vmss)
+- [Linux VMs with cloud-init and Load Balancers](https://github.com/ricmmartins/linuxvm-cloud-init-loadbalancer/)
+- [Linux VM with Apache and PHP using cloud-init](https://github.com/ricmmartins/linuxvm-cloud-init/)
+- [ELK Stack on Azure](https://github.com/ricmmartins/elk-stack-azure)
+- [GlusterFS with Azure Shared Disks](https://github.com/ricmmartins/glusterfs-azure-shared-disks)
+- [Azure Governance DevOps Generator](https://github.com/ricmmartins/azuredevopsgenerator/tree/master/azuregovernance)
+- [WVD Guidance Generator](https://github.com/ricmmartins/wvdguidance)
+- [Azure Automation scripts for Linux VMs](https://github.com/ricmmartins/azure-automation)
+- [Azure VM creation/update alerts](https://github.com/ricmmartins/azure-alerts)
+- [VPN between Azure and AWS](https://github.com/ricmmartins/azure-vpn-aws)
+- [Azure for IT Pro & CloudOps](https://github.com/ricmmartins/azure-for-itpro)
+- [Study guide for AZ-900](https://github.com/ricmmartins/study-guide-az900)
+
+---
+
+## 📋 Misc Resources
+
+| Resource | Link |
+|----------|------|
+| Guia de Estudo AZ-900 (PT-BR) | [aka.ms/guia-az900](https://aka.ms/guia-az900) |
+| Azure Readiness | [aka.ms/azreadiness](http://aka.ms/azreadiness) |
+| Azure Certification Guide | [aka.ms/azcertification](http://aka.ms/azcertification) |
+| Azure Learning (PT-BR) | [aka.ms/capacitacaoazure](http://aka.ms/capacitacaoazure) |
+
+---
+
+## 🎤 Presentations
+
+<details>
+<summary>View all presentations</summary>
+
+- [IaC & DevOps no Azure - Automating Deployments](https://ricardomartins9888.blob.core.windows.net/arquivos/IaC&DevOpsNoAzure-AutomatizandoDeployments.pptx)
+- [Docker Containers on Azure Web App](https://ricardomartins9888.blob.core.windows.net/arquivos/ContainersDockernoAzureWebApp.pptx)
+- [Azure Functions](https://ricardomartins9888.blob.core.windows.net/arquivos/AzureFunctions.pptx)
+- [Azure @ Rio Cloud Meetup](https://www.slideshare.net/rmmartins/azure-rio-cloud-meetp)
+- [Reference Guide for Microsoft Exam 70-533](https://www.slideshare.net/rmmartins/guia-de-referncia-para-o-exame-de-certificao-70533)
+- [Nginx, Apache and Varnish](https://www.slideshare.net/rmmartins/nginx-apache-e-varnish)
+- [Cloud & AWS: From theory to practice](https://www.slideshare.net/rmmartins/cloud-aws-da-teoria-prtica)
+- [Cloud Computing & Software Livre with CloudStack - Flisol 2015](https://www.slideshare.net/rmmartins/flisol-2015)
+- [Cloud computing & Cloudstack - VI FSLDC 2015](https://www.slideshare.net/rmmartins/cloud-computing-cloudstack-como-ter-sua-nuvem-sem-tempestades)
+
+</details>
+
+---
 
 ## 📹 Video How-to's
 
-* [Azure Container Instance creation](https://asciinema.org/a/131745)
-* [Creation of a Linux VM (Ubuntu) from Azure CLI](https://asciinema.org/a/126545)
-* [Creating a Linux VM from Azure CLI](https://www.youtube.com/watch?v=yI5yh5ddtho)
-* [Azure template deployment from CLI](https://asciinema.org/a/133924)
-* [IaC & DevOps at Azure: Automating Deployments](https://www.youtube.com/watch?v=Vx2AwqwucpI)
-* [Azure File Sync](https://www.youtube.com/watch?v=6lDbvF31jik)
-* [Azure ARM Template Deployment from Visual Studio](https://www.youtube.com/watch?v=joZvr-sP3xE)
-* [Installing CoreOS](https://www.youtube.com/watch?v=dEP31boZ9jU)
-* [Registering a domain and configuring an instance on AWS responding on that domain](https://www.youtube.com/watch?v=mVnt_-YOoPE)
-* [Monitoring applications and services with Monit](https://www.youtube.com/watch?v=atuRvvft5xU)
-* [AWS Data Pipeline Demo](https://www.youtube.com/watch?v=-xmyqZDga68)
-* [Installing Zabbix Server](https://www.youtube.com/watch?v=hO6rCKpBnn0)
+<details>
+<summary>View all videos</summary>
 
-## Community Events
+- [IaC & DevOps at Azure: Automating Deployments](https://www.youtube.com/watch?v=Vx2AwqwucpI)
+- [Azure File Sync](https://www.youtube.com/watch?v=6lDbvF31jik)
+- [Azure ARM Template Deployment from Visual Studio](https://www.youtube.com/watch?v=joZvr-sP3xE)
+- [Creating a Linux VM from Azure CLI](https://www.youtube.com/watch?v=yI5yh5ddtho)
+- [Azure Container Instance creation](https://asciinema.org/a/131745)
+- [Azure template deployment from CLI](https://asciinema.org/a/133924)
+- [Creation of a Linux VM (Ubuntu) from Azure CLI](https://asciinema.org/a/126545)
 
-* [Organizer of the 1st edition of DevOpsDays in Rio de Janeiro - 2018](https://devopsdays.org/events/2018-rio-de-janeiro/contato)
+</details>
 
+---
+
+## 🎪 Community Events
+
+- [Organizer — DevOpsDays Rio de Janeiro 2018](https://devopsdays.org/events/2018-rio-de-janeiro/contato)
+
+---
+
+> 📝 More writings on my personal blog at [ricardomartins.com.br](https://ricardomartins.com.br/) and [rmmartins.com](https://rmmartins.com/)
