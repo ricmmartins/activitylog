@@ -129,9 +129,9 @@ Official training modules authored for Microsoft Learn:
 |-------|----------|------|
 | AKS Learning Path | English | [aks-learning.github.io](https://aks-learning.github.io/learningpath/) |
 | Azure Fundamentals Study Guide | English | [azure-fundamentals.com](https://azure-fundamentals.com/) |
-| Azure Fundamentals Study Guide | Portuguese | [fundamentosdoazure.com.br](https://fundamentosdoazure.com.br/) |
-| AWS Cloud Practitioner Study Guide | English | [awscloudpractitionerguide.com](https://awscloudpractitionerguide.com/) |
-| AWS Fundamentals Study Guide | Portuguese | [fundamentosaws.com.br](http://fundamentosaws.com.br/) |
+| Azure Fundamentals Study Guide | Portuguese | [https://github.com/ricmmartins/guia-estudo-az900](https://github.com/ricmmartins/guia-estudo-az900) |
+| AWS Cloud Practitioner Study Guide | English | [https://github.com/ricmmartins/study-guide-aws-ccp](https://github.com/ricmmartins/study-guide-aws-ccp) |
+| AWS Fundamentals Study Guide | Portuguese | [https://github.com/ricmmartins/guia-estudo-fundamentos-aws](https://github.com/ricmmartins/guia-estudo-fundamentos-aws) |
 
 ---
 
