@@ -52,6 +52,7 @@ Articles published on the official [Startups at Microsoft Tech Community blog](h
 - [Azure Quota Alerts (Preview): Still overlooked, but incredibly useful](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-quota-alerts-preview-still-overlooked-but-incredibly-useful/4447140)
 
 ### Governance & Security
+- [The flat-subscription problem](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/the-flat-subscription-problem/4513777)
 - [Azure has three permission systems, and you're probably confusing them](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-has-three-permission-systems-and-youre-probably-confusing-them/4471854)
 - [Role Structures, Anti-Patterns, and the 10 Governance Principles](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/role-structures-anti-patterns-and-the-10-governance-principles/4510070)
 - [Marketplace governance and the cross-plane bridge](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/marketplace-governance-and-the-cross-plane-bridge/4510067)
