@@ -162,6 +162,7 @@ Contributions to the Red Hat Cloud Experts Blog and Microsoft official ARO docum
 <details>
 <summary>View all articles</summary>
 
+- [Azure SRE Agent e AWS: investigação cross-cloud com MCP Server e DevOps Agent](https://www.azurebrasil.cloud/blog/azure-sre-agent-e-aws-investigacao-cross-cloud-com-mcp-server-e-devops-agent/)
 - [Resposta a incidentes no Azure: automação de alertas, runbooks e integração com ferramentas de on-call](https://www.azurebrasil.cloud/blog/resposta-a-incidentes-no-azure-automacao-de-alertas-runbooks-e-integracao-com-ferramentas-de-on-call/)
 - [SRE no Azure: implementando SLIs, SLOs e Error Budgets com Azure Monitor](https://www.azurebrasil.cloud/blog/sre-no-azure-implementando-slis-slos-e-error-budgets-com-azure-monitor/)
 - [Engenharia de Caos no Azure: validando resiliência em produção com Azure Chaos Studio](https://www.azurebrasil.cloud/blog/engenharia-de-caos-no-azure-validando-resiliencia-em-producao-com-azure-chaos-studio/)
