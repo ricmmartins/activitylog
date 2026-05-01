@@ -15,6 +15,8 @@
 | 📰 AKS Newsletter | Monthly curated updates on Azure Kubernetes Service | [aksnewsletter.com](https://aksnewsletter.com) |
 | 🌐 Azure Digital Natives Guide | Comprehensive Azure checklist for startups and digital-native teams | [azdnguide.com](https://azdnguide.com) |
 | 📡 Azure Feed | Daily aggregated updates from Azure blogs | [azurefeed.news](https://azurefeed.news) |
+| 🚀 Kubernetes Hackathon | 20 hands-on challenges for Linux pros — 100% coverage of CKA, CKAD, and CKS certification domains | [k8shackathon.com](https://k8shackathon.com) |
+| 📗 From Server to Cluster | Kubernetes book for Linux professionals — bridging sysadmin skills to cloud-native orchestration | [fromservertocluster.com](https://fromservertocluster.com) |
 | 🐧 Linux Hackathon | The 1st Linux hackathon by Microsoft — part of the official "What The Hack" program | [linuxhackathon.com](https://linuxhackathon.com) |
 
 ---
