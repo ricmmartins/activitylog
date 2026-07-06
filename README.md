@@ -164,6 +164,9 @@ Contributions to the Red Hat Cloud Experts Blog and Microsoft official ARO docum
 <details>
 <summary>View all articles</summary>
 
+- [Azure Managed Grafana + Prometheus no AKS: alertas, multi-cluster e troubleshooting - Parte 2](https://www.azurebrasil.cloud/blog/azure-managed-grafana-prometheus-no-aks-alertas-multi-cluster-e-troubleshooting-parte-2/)
+- [Azure Managed Grafana + Prometheus no AKS: observabilidade moderna com stack open-source gerenciado - Parte 1](https://www.azurebrasil.cloud/blog/azure-managed-grafana-prometheus-no-aks-observabilidade-moderna-com-stack-open-source-gerenciado-parte-1/)
+- [Azure Container Apps em produção: Jobs, networking, observabilidade e troubleshooting - Parte 2](https://www.azurebrasil.cloud/blog/azure-container-apps-em-producao-jobs-networking-observabilidade-e-troubleshooting-parte-2/)
 - [Azure SRE Agent e AWS: investigação cross-cloud com MCP Server e DevOps Agent](https://www.azurebrasil.cloud/blog/azure-sre-agent-e-aws-investigacao-cross-cloud-com-mcp-server-e-devops-agent/)
 - [Resposta a incidentes no Azure: automação de alertas, runbooks e integração com ferramentas de on-call](https://www.azurebrasil.cloud/blog/resposta-a-incidentes-no-azure-automacao-de-alertas-runbooks-e-integracao-com-ferramentas-de-on-call/)
 - [SRE no Azure: implementando SLIs, SLOs e Error Budgets com Azure Monitor](https://www.azurebrasil.cloud/blog/sre-no-azure-implementando-slis-slos-e-error-budgets-com-azure-monitor/)
