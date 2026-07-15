@@ -43,6 +43,7 @@ Articles published on the official [Startups at Microsoft Tech Community blog](h
 - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
 
 ### Observability & Monitoring
+- [Azure Service Health has four alert types. You probably configured one](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-service-health-has-four-alert-types-you-probably-configured-one-/4537501)
 - [Your Azure VM went down and nobody knew why. Here's how to fix that.](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/your-azure-vm-went-down-and-nobody-knew-why-heres-how-to-fix-that-/4513733)
 - [Azure Monitor 101: The missing guide to understanding monitoring on Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-monitor-101-the-missing-guide-to-understanding-monitoring-on-azure/4462799)
 - [Advanced Alerting Strategies for Azure Monitoring](https://techcommunity.microsoft.com/t5/startups-at-microsoft/advanced-alerting-strategies-for-azure-monitoring/ba-p/4268698)
