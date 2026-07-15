@@ -26,6 +26,7 @@
 Articles published on the official [Startups at Microsoft Tech Community blog](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog):
 
 ### AI Infrastructure & Operations
+- [Your H100s on Azure won't do distributed training. Here's probably why](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/your-h100s-on-azure-wont-do-distributed-training-heres-probably-why-/4537502)
 - [Production-grade API Gateway patterns for Microsoft Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/production-grade-api-gateway-patterns-for-microsoft-foundry/4490494)
 - [When and why startups add a Gateway in front of Azure AI Foundry](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/when-and-why-startups-add-a-gateway-in-front-of-azure-ai-foundry/4489490)
 - [Monitoring Azure OpenAI without switching from your existing observability platform](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/monitoring-azure-openai-without-switching-from-your-existing-observability-platf/4458898)
