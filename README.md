@@ -15,6 +15,7 @@
 | 📰 AKS Newsletter | Monthly curated updates on Azure Kubernetes Service | [aksnewsletter.com](https://aksnewsletter.com) |
 | 🌐 Azure Digital Natives Guide | Comprehensive Azure checklist for startups and digital-native teams | [azdnguide.com](https://azdnguide.com) |
 | 📡 Azure Feed | Daily aggregated updates from Azure blogs | [azurefeed.news](https://azurefeed.news) |
+| 🤖 Azure SRE Agent Skills | Custom proactive operations skills pack for Azure SRE Agent — 8 skills covering WAF review, compliance, capacity planning, FinOps, postmortems, Defender score, digital-native governance and AI posture | [github.com/ricmmartins/azure-sre-agent-skills](https://github.com/ricmmartins/azure-sre-agent-skills) |
 | 🚀 Kubernetes Hackathon | 20 hands-on challenges for Linux pros — 100% coverage of CKA, CKAD, and CKS certification domains | [k8shackathon.com](https://k8shackathon.com) |
 | 📗 From Server to Cluster | Kubernetes book for Linux professionals — bridging sysadmin skills to cloud-native orchestration | [fromservertocluster.com](https://fromservertocluster.com) |
 | 🐧 Linux Hackathon | The 1st Linux hackathon by Microsoft — part of the official "What The Hack" program | [linuxhackathon.com](https://linuxhackathon.com) |
@@ -44,6 +45,7 @@ Articles published on the official [Startups at Microsoft Tech Community blog](h
 - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
 
 ### Observability & Monitoring
+- [Your startup doesn't have an SRE team. Now what?](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/your-startup-doesnt-have-an-sre-team-now-what/4540142)
 - [Azure Service Health has four alert types. You probably configured one](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-service-health-has-four-alert-types-you-probably-configured-one-/4537501)
 - [Your Azure VM went down and nobody knew why. Here's how to fix that.](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/your-azure-vm-went-down-and-nobody-knew-why-heres-how-to-fix-that-/4513733)
 - [Azure Monitor 101: The missing guide to understanding monitoring on Azure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-monitor-101-the-missing-guide-to-understanding-monitoring-on-azure/4462799)
