@@ -8,17 +8,20 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 📘 AI for Infra | The practical AI handbook for infrastructure engineers — 220+ pages, 15 chapters, 10 troubleshooting scenarios | [ai4infra.com](https://ai4infra.com) |
-| 🧮 PTU Calculator | Azure OpenAI PTU Estimator — compare PAYGO, PTU, and hybrid pricing models | [ptucalc.com](https://ptucalc.com) |
-| 📗 Azure Governance Made Simple | 30-chapter ebook — identity, policy, IaC, cost, observability, governance at scale | [book.azgovernance.com](https://book.azgovernance.com) |
-| 🏗️ Startup-Scale Landing Zone | Opinionated Azure Landing Zone for startups — deploy in under 1 hour (Bicep + Terraform) | [startupscalelanding.zone](https://startupscalelanding.zone) |
+| 🎓 AKS Learning | From zero to production on Azure Kubernetes Service. Covers networking, security, observability, scaling, GitOps, AI/ML workloads and best practices | [aks-learning.github.io](https://aks-learning.github.io/) |
+| 🗞️ Decodifica.Tech | Daily tech news digest synthesized from 290+ international sources into a single summary in Portuguese. Cloud, AI, DevOps, security & software engineering — with a daily podcast on Spotify. _(Content in Portuguese only for now)_ | [decodifica.tech](https://decodifica.tech) |
+| 📘 AI for Infra | Practical AI handbook for infrastructure engineers. 220+ pages, 15 chapters, 10 troubleshooting scenarios | [ai4infra.com](https://ai4infra.com) |
+| 📗 From Server to Cluster | Kubernetes ebook for Linux professionals. 15 chapters bridging Linux skills → K8s with hands-on labs | [fromservertocluster.com](https://fromservertocluster.com) |
+| 🚀 K8s Hackathon | Hands-on Kubernetes hackathon. 20 challenges covering 100% of CKA + CKAD + CKS certification domains | [k8shackathon.com](https://k8shackathon.com) |
+| 🐧 Linux Hackathon | The 1st Linux hackathon by Microsoft, part of the official "What The Hack" program | [linuxhackathon.com](https://linuxhackathon.com) |
+| 🧮 PTU Calculator | PTU estimator for Azure OpenAI. Compares PAYGO, PTU and hybrid pricing models | [ptucalc.com](https://ptucalc.com) |
+| 📝 Azure Cert Prep | 205 hands-on challenges across 5 Microsoft certification exams (AZ-900, AZ-104, AZ-305, AZ-400, SC-500). 100% exam coverage with validated commands, break-and-fix scenarios, and one-click labs in GitHub Codespaces. Free and open-source | [azurecertprep.github.io](https://azurecertprep.github.io/) |
+| 📗 Azure Governance Made Simple | 30 chapters on identity, policy, IaC, cost, observability and governance at scale | [azgovernance.com](https://azgovernance.com) |
+| 🏗️ Startup-Scale Landing Zone | Opinionated landing zone for startups on Azure. Deploy in under 1 hour (Bicep + Terraform) | [startupscalelanding.zone](https://startupscalelanding.zone) |
 | 📰 AKS Newsletter | Monthly curated updates on Azure Kubernetes Service | [aksnewsletter.com](https://aksnewsletter.com) |
-| 🌐 Azure Digital Natives Guide | Comprehensive Azure checklist for startups and digital-native teams | [azdnguide.com](https://azdnguide.com) |
-| 📡 Azure Feed | Daily aggregated updates from Azure blogs | [azurefeed.news](https://azurefeed.news) |
-| 🤖 Azure SRE Agent Skills | Custom proactive operations skills pack for Azure SRE Agent — 8 skills covering WAF review, compliance, capacity planning, FinOps, postmortems, Defender score, digital-native governance and AI posture | [github.com/ricmmartins/azure-sre-agent-skills](https://github.com/ricmmartins/azure-sre-agent-skills) |
-| 🚀 Kubernetes Hackathon | 20 hands-on challenges for Linux pros — 100% coverage of CKA, CKAD, and CKS certification domains | [k8shackathon.com](https://k8shackathon.com) |
-| 📗 From Server to Cluster | Kubernetes book for Linux professionals — bridging sysadmin skills to cloud-native orchestration | [fromservertocluster.com](https://fromservertocluster.com) |
-| 🐧 Linux Hackathon | The 1st Linux hackathon by Microsoft — part of the official "What The Hack" program | [linuxhackathon.com](https://linuxhackathon.com) |
+| 🌐 Azure Digital Natives Guide | Complete checklist for startups and digital-native teams on Azure | [azdnguide.com](https://azdnguide.com) |
+| 📡 Azure Feed | Daily aggregator of Azure blog updates | [azurefeed.news](https://azurefeed.news) |
+| 🤖 Azure SRE Agent Skills | Custom proactive operations skills pack for Azure SRE Agent. 8 skills covering WAF review, compliance, capacity planning, FinOps, postmortems, Defender score, digital-native governance and AI posture | [github.com/ricmmartins/azure-sre-agent-skills](https://github.com/ricmmartins/azure-sre-agent-skills) |
 
 ---
 
