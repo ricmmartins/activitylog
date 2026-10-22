@@ -49,6 +49,7 @@ Articles published on the official [Startups at Microsoft Tech Community blog](h
 - [Highlights from KubeCon North America 2024 and Microsoft Ignite 2024](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/highlights-from-kubecon-north-america-2024-and-microsoft-ignite-2024/4355189)
 
 ### Observability & Monitoring
+- [Know before your customers do: a secure Azure Service Health to Slack pipeline](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/know-before-your-customers-do-a-secure-azure-service-health-to-slack-pipeline/4566890)
 - [From reactive firefighting to proactive operations: custom skills for Azure SRE Agent](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/from-reactive-firefighting-to-proactive-operations-custom-skills-for-azure-sre-a/4542961)
 - [Your startup doesn't have an SRE team. Now what?](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/your-startup-doesnt-have-an-sre-team-now-what/4540142)
 - [Azure Service Health has four alert types. You probably configured one](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-service-health-has-four-alert-types-you-probably-configured-one-/4537501)
