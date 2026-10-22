@@ -22,6 +22,7 @@
 | 🌐 Azure Digital Natives Guide | Complete checklist for startups and digital-native teams on Azure | [azdnguide.com](https://azdnguide.com) |
 | 📡 Azure Feed | Daily aggregator of Azure blog updates | [azurefeed.news](https://azurefeed.news) |
 | 🤖 Azure SRE Agent Skills | Custom proactive operations skills pack for Azure SRE Agent. 8 skills covering WAF review, compliance, capacity planning, FinOps, postmortems, Defender score, digital-native governance and AI posture | [github.com/ricmmartins/azure-sre-agent-skills](https://github.com/ricmmartins/azure-sre-agent-skills) |
+| 🔔 Azure Service Health to Slack | Secure Azure Service Health to Slack pipeline. One Slack message per incident, updated as it evolves, with Entra-authenticated Secure Webhook, multi-subscription and Management Group support, deployed with Bicep on Azure Container Apps. Community project, not an official Microsoft product | [github.com/ricmmartins/azure-service-health-slack-bot](https://github.com/ricmmartins/azure-service-health-slack-bot) · [article](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/know-before-your-customers-do-a-secure-azure-service-health-to-slack-pipeline/4566890) |
 
 ---
 
