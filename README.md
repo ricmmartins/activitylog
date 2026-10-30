@@ -30,6 +30,16 @@
 
 Articles published on the official [Startups at Microsoft Tech Community blog](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog):
 
+### AI on Azure (Five-Part Series)
+
+A five-part series on choosing models and services for AI applications on Azure, from training, fine-tuning, and inference to managing your own infrastructure.
+
+1. [AI on Azure 101: training, fine-tuning, inference, and where everything lives](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/ai-on-azure-101-training-fine-tuning-inference-and-where-everything-lives/4569066/)
+2. [AI on Azure: models as a service](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/ai-on-azure-models-as-a-service/4569083/)
+3. [AI on Azure: platforms for apps and agents](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/ai-on-azure-platforms-for-apps-and-agents/4569086/)
+4. [AI on Azure: managed ML](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/ai-on-azure-managed-ml/4569087/)
+5. [AI on Azure: when you own the infrastructure](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/ai-on-azure-when-you-own-the-infrastructure/4569089)
+
 ### AI Infrastructure & Operations
 - [Azure AI Foundry: from zero to production](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/azure-ai-foundry-from-zero-to-production/4542960)
 - [Your H100s on Azure won't do distributed training. Here's probably why](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/your-h100s-on-azure-wont-do-distributed-training-heres-probably-why-/4537502)
